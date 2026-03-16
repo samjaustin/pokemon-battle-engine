@@ -47,6 +47,8 @@ function calculateDamage(a,d,m){
     let finalDamage = Math.floor(damageWithStab * effectiveness)
     console.log(`[FINAL] ${damageWithStab} × ${effectiveness} = ${finalDamage} damage!`)
     console.log(`--- END ---\n`)
+
+    return finalDamage
 }
 
 function effectivenessCalculator(attMoveType, defType, attackerName, defenderName){
@@ -79,23 +81,25 @@ function effectivenessCalculator(attMoveType, defType, attackerName, defenderNam
     return effectiveness
 }
 
-console.log("╔════════════════════════════════════════════════════════════╗")
-console.log("║     POKEMON GEN 1 DAMAGE CALCULATOR - BATTLE SIMULATION    ║")
-console.log("╚════════════════════════════════════════════════════════════╝")
+// console.log("╔════════════════════════════════════════════════════════════╗")
+// console.log("║     POKEMON GEN 1 DAMAGE CALCULATOR - BATTLE SIMULATION    ║")
+// console.log("╚════════════════════════════════════════════════════════════╝")
 
-const attacker = pokemonDb.find(p => p.name === 'venusaur');
-const defender = pokemonDb.find(p => p.name === 'wartortle');
-const attackerMove = attacker.moves[0];
+// const attacker = pokemonDb.find(p => p.name === 'venusaur');
+// const defender = pokemonDb.find(p => p.name === 'wartortle');
+// const attackerMove = attacker.moves[0];
 
-console.log(`\n[SETUP] Attacker: ${attacker.name.toUpperCase()}`)
-console.log(`        Types: ${attacker.types.join('/')}`)
-console.log(`        Level 100 Stats - Special: ${attacker.currentLevelStats.special}`)
+// console.log(`\n[SETUP] Attacker: ${attacker.name.toUpperCase()}`)
+// console.log(`        Types: ${attacker.types.join('/')}`)
+// console.log(`        Level 100 Stats - Special: ${attacker.currentLevelStats.special}`)
 
-console.log(`\n[SETUP] Defender: ${defender.name.toUpperCase()}`)
-console.log(`        Types: ${defender.types.join('/')}`)
-console.log(`        Level 100 Stats - Special: ${defender.currentLevelStats.special}`)
+// console.log(`\n[SETUP] Defender: ${defender.name.toUpperCase()}`)
+// console.log(`        Types: ${defender.types.join('/')}`)
+// console.log(`        Level 100 Stats - Special: ${defender.currentLevelStats.special}`)
 
-console.log(`\n[SETUP] Move: ${attackerMove.name.toUpperCase()}`)
-console.log(`        Type: ${attackerMove.type} | Power: ${attackerMove.power} | Category: ${attackerMove.category}`)
+// console.log(`\n[SETUP] Move: ${attackerMove.name.toUpperCase()}`)
+// console.log(`        Type: ${attackerMove.type} | Power: ${attackerMove.power} | Category: ${attackerMove.category}`)
 
-calculateDamage(attacker,defender,attackerMove)
+// calculateDamage(attacker,defender,attackerMove)
+
+module.exports = { calculateDamage };
