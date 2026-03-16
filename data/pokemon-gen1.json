@@ -18,7 +18,29 @@
         "name": "solar-beam",
         "type": "grass",
         "power": 120,
-        "category": "special"
+        "category": "special",
+        "levelLearned": 48
+      },
+      {
+        "name": "razor-leaf",
+        "type": "grass",
+        "power": 55,
+        "category": "physical",
+        "levelLearned": 27
+      },
+      {
+        "name": "vine-whip",
+        "type": "grass",
+        "power": 45,
+        "category": "physical",
+        "levelLearned": 13
+      },
+      {
+        "name": "growl",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
       }
     ],
     "level": 100,
@@ -49,7 +71,29 @@
         "name": "solar-beam",
         "type": "grass",
         "power": 120,
-        "category": "special"
+        "category": "special",
+        "levelLearned": 54
+      },
+      {
+        "name": "razor-leaf",
+        "type": "grass",
+        "power": 55,
+        "category": "physical",
+        "levelLearned": 30
+      },
+      {
+        "name": "vine-whip",
+        "type": "grass",
+        "power": 45,
+        "category": "physical",
+        "levelLearned": 13
+      },
+      {
+        "name": "growl",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
       }
     ],
     "level": 100,
@@ -80,7 +124,29 @@
         "name": "solar-beam",
         "type": "grass",
         "power": 120,
-        "category": "special"
+        "category": "special",
+        "levelLearned": 65
+      },
+      {
+        "name": "razor-leaf",
+        "type": "grass",
+        "power": 55,
+        "category": "physical",
+        "levelLearned": 30
+      },
+      {
+        "name": "vine-whip",
+        "type": "grass",
+        "power": 45,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "growl",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
       }
     ],
     "level": 100,
@@ -109,8 +175,30 @@
       {
         "name": "flamethrower",
         "type": "fire",
-        "power": 95,
-        "category": "special"
+        "power": 90,
+        "category": "special",
+        "levelLearned": 38
+      },
+      {
+        "name": "slash",
+        "type": "normal",
+        "power": 70,
+        "category": "physical",
+        "levelLearned": 30
+      },
+      {
+        "name": "scratch",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 15
       }
     ],
     "level": 100,
@@ -139,8 +227,30 @@
       {
         "name": "flamethrower",
         "type": "fire",
-        "power": 95,
-        "category": "special"
+        "power": 90,
+        "category": "special",
+        "levelLearned": 42
+      },
+      {
+        "name": "slash",
+        "type": "normal",
+        "power": 70,
+        "category": "physical",
+        "levelLearned": 33
+      },
+      {
+        "name": "scratch",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 15
       }
     ],
     "level": 100,
@@ -170,8 +280,30 @@
       {
         "name": "flamethrower",
         "type": "fire",
-        "power": 95,
-        "category": "special"
+        "power": 90,
+        "category": "special",
+        "levelLearned": 46
+      },
+      {
+        "name": "slash",
+        "type": "normal",
+        "power": 70,
+        "category": "physical",
+        "levelLearned": 36
+      },
+      {
+        "name": "scratch",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
       }
     ],
     "level": 100,
@@ -198,10 +330,32 @@
     },
     "moves": [
       {
+        "name": "skull-bash",
+        "type": "normal",
+        "power": 130,
+        "category": "physical",
+        "levelLearned": 35
+      },
+      {
         "name": "hydro-pump",
         "type": "water",
-        "power": 120,
-        "category": "special"
+        "power": 110,
+        "category": "special",
+        "levelLearned": 42
+      },
+      {
+        "name": "bite",
+        "type": "dark",
+        "power": 60,
+        "category": "physical",
+        "levelLearned": 22
+      },
+      {
+        "name": "tail-whip",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
       }
     ],
     "level": 100,
@@ -228,10 +382,32 @@
     },
     "moves": [
       {
+        "name": "skull-bash",
+        "type": "normal",
+        "power": 130,
+        "category": "physical",
+        "levelLearned": 39
+      },
+      {
         "name": "hydro-pump",
         "type": "water",
-        "power": 120,
-        "category": "special"
+        "power": 110,
+        "category": "special",
+        "levelLearned": 47
+      },
+      {
+        "name": "bite",
+        "type": "dark",
+        "power": 60,
+        "category": "physical",
+        "levelLearned": 24
+      },
+      {
+        "name": "tail-whip",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
       }
     ],
     "level": 100,
@@ -258,10 +434,32 @@
     },
     "moves": [
       {
+        "name": "skull-bash",
+        "type": "normal",
+        "power": 130,
+        "category": "physical",
+        "levelLearned": 42
+      },
+      {
         "name": "hydro-pump",
         "type": "water",
-        "power": 120,
-        "category": "special"
+        "power": 110,
+        "category": "special",
+        "levelLearned": 52
+      },
+      {
+        "name": "bite",
+        "type": "dark",
+        "power": 60,
+        "category": "physical",
+        "levelLearned": 24
+      },
+      {
+        "name": "tail-whip",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
       }
     ],
     "level": 100,
@@ -290,8 +488,16 @@
       {
         "name": "tackle",
         "type": "normal",
-        "power": 35,
-        "category": "physical"
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "string-shot",
+        "type": "bug",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
       }
     ],
     "level": 100,
@@ -301,6 +507,7261 @@
       "defense": 75,
       "special": 45,
       "speed": 95
+    }
+  },
+  {
+    "id": 11,
+    "name": "metapod",
+    "types": [
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "attack": 20,
+      "defense": 55,
+      "special": 25,
+      "speed": 30
+    },
+    "moves": [
+      {
+        "name": "harden",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 210,
+      "attack": 45,
+      "defense": 115,
+      "special": 55,
+      "speed": 65
+    }
+  },
+  {
+    "id": 12,
+    "name": "butterfree",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "attack": 45,
+      "defense": 50,
+      "special": 90,
+      "speed": 70
+    },
+    "moves": [
+      {
+        "name": "psybeam",
+        "type": "psychic",
+        "power": 65,
+        "category": "special",
+        "levelLearned": 32
+      },
+      {
+        "name": "confusion",
+        "type": "psychic",
+        "power": 50,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "whirlwind",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 26
+      },
+      {
+        "name": "supersonic",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 21
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 230,
+      "attack": 95,
+      "defense": 105,
+      "special": 185,
+      "speed": 145
+    }
+  },
+  {
+    "id": 13,
+    "name": "weedle",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "attack": 35,
+      "defense": 30,
+      "special": 20,
+      "speed": 50
+    },
+    "moves": [
+      {
+        "name": "poison-sting",
+        "type": "poison",
+        "power": 15,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "string-shot",
+        "type": "bug",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 190,
+      "attack": 75,
+      "defense": 65,
+      "special": 45,
+      "speed": 105
+    }
+  },
+  {
+    "id": 14,
+    "name": "kakuna",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "attack": 25,
+      "defense": 50,
+      "special": 25,
+      "speed": 35
+    },
+    "moves": [
+      {
+        "name": "harden",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 200,
+      "attack": 55,
+      "defense": 105,
+      "special": 55,
+      "speed": 75
+    }
+  },
+  {
+    "id": 15,
+    "name": "beedrill",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 40,
+      "special": 45,
+      "speed": 75
+    },
+    "moves": [
+      {
+        "name": "twineedle",
+        "type": "bug",
+        "power": 25,
+        "category": "physical",
+        "levelLearned": 20
+      },
+      {
+        "name": "pin-missile",
+        "type": "bug",
+        "power": 25,
+        "category": "physical",
+        "levelLearned": 30
+      },
+      {
+        "name": "rage",
+        "type": "normal",
+        "power": 20,
+        "category": "physical",
+        "levelLearned": 25
+      },
+      {
+        "name": "agility",
+        "type": "psychic",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 35
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 240,
+      "attack": 185,
+      "defense": 85,
+      "special": 95,
+      "speed": 155
+    }
+  },
+  {
+    "id": 16,
+    "name": "pidgey",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 40,
+      "special": 35,
+      "speed": 56
+    },
+    "moves": [
+      {
+        "name": "wing-attack",
+        "type": "flying",
+        "power": 60,
+        "category": "physical",
+        "levelLearned": 28
+      },
+      {
+        "name": "gust",
+        "type": "flying",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "quick-attack",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 12
+      },
+      {
+        "name": "whirlwind",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 19
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 190,
+      "attack": 95,
+      "defense": 85,
+      "special": 75,
+      "speed": 117
+    }
+  },
+  {
+    "id": 17,
+    "name": "pidgeotto",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 63,
+      "attack": 60,
+      "defense": 55,
+      "special": 50,
+      "speed": 71
+    },
+    "moves": [
+      {
+        "name": "wing-attack",
+        "type": "flying",
+        "power": 60,
+        "category": "physical",
+        "levelLearned": 31
+      },
+      {
+        "name": "gust",
+        "type": "flying",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "quick-attack",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 12
+      },
+      {
+        "name": "whirlwind",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 21
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 236,
+      "attack": 125,
+      "defense": 115,
+      "special": 105,
+      "speed": 147
+    }
+  },
+  {
+    "id": 18,
+    "name": "pidgeot",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 83,
+      "attack": 80,
+      "defense": 75,
+      "special": 70,
+      "speed": 101
+    },
+    "moves": [
+      {
+        "name": "wing-attack",
+        "type": "flying",
+        "power": 60,
+        "category": "physical",
+        "levelLearned": 31
+      },
+      {
+        "name": "gust",
+        "type": "flying",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "quick-attack",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "whirlwind",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 21
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 276,
+      "attack": 165,
+      "defense": 155,
+      "special": 145,
+      "speed": 207
+    }
+  },
+  {
+    "id": 19,
+    "name": "rattata",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "attack": 56,
+      "defense": 35,
+      "special": 25,
+      "speed": 72
+    },
+    "moves": [
+      {
+        "name": "hyper-fang",
+        "type": "normal",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 14
+      },
+      {
+        "name": "tackle",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "quick-attack",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 7
+      },
+      {
+        "name": "tail-whip",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 170,
+      "attack": 117,
+      "defense": 75,
+      "special": 55,
+      "speed": 149
+    }
+  },
+  {
+    "id": 20,
+    "name": "raticate",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "attack": 81,
+      "defense": 60,
+      "special": 50,
+      "speed": 97
+    },
+    "moves": [
+      {
+        "name": "hyper-fang",
+        "type": "normal",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 14
+      },
+      {
+        "name": "tackle",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "quick-attack",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "tail-whip",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 220,
+      "attack": 167,
+      "defense": 125,
+      "special": 105,
+      "speed": 199
+    }
+  },
+  {
+    "id": 21,
+    "name": "spearow",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "attack": 60,
+      "defense": 30,
+      "special": 31,
+      "speed": 70
+    },
+    "moves": [
+      {
+        "name": "drill-peck",
+        "type": "flying",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 29
+      },
+      {
+        "name": "peck",
+        "type": "flying",
+        "power": 35,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "fury-attack",
+        "type": "normal",
+        "power": 15,
+        "category": "physical",
+        "levelLearned": 15
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 9
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 190,
+      "attack": 125,
+      "defense": 65,
+      "special": 67,
+      "speed": 145
+    }
+  },
+  {
+    "id": 22,
+    "name": "fearow",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 65,
+      "special": 61,
+      "speed": 100
+    },
+    "moves": [
+      {
+        "name": "drill-peck",
+        "type": "flying",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 34
+      },
+      {
+        "name": "peck",
+        "type": "flying",
+        "power": 35,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "fury-attack",
+        "type": "normal",
+        "power": 15,
+        "category": "physical",
+        "levelLearned": 15
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 240,
+      "attack": 185,
+      "defense": 135,
+      "special": 127,
+      "speed": 205
+    }
+  },
+  {
+    "id": 23,
+    "name": "ekans",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "attack": 60,
+      "defense": 44,
+      "special": 40,
+      "speed": 55
+    },
+    "moves": [
+      {
+        "name": "bite",
+        "type": "dark",
+        "power": 60,
+        "category": "physical",
+        "levelLearned": 17
+      },
+      {
+        "name": "acid",
+        "type": "poison",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 38
+      },
+      {
+        "name": "wrap",
+        "type": "normal",
+        "power": 15,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 180,
+      "attack": 125,
+      "defense": 93,
+      "special": 85,
+      "speed": 115
+    }
+  },
+  {
+    "id": 24,
+    "name": "arbok",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "attack": 95,
+      "defense": 69,
+      "special": 65,
+      "speed": 80
+    },
+    "moves": [
+      {
+        "name": "bite",
+        "type": "dark",
+        "power": 60,
+        "category": "physical",
+        "levelLearned": 17
+      },
+      {
+        "name": "acid",
+        "type": "poison",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 47
+      },
+      {
+        "name": "wrap",
+        "type": "normal",
+        "power": 15,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 230,
+      "attack": 195,
+      "defense": 143,
+      "special": 135,
+      "speed": 165
+    }
+  },
+  {
+    "id": 25,
+    "name": "pikachu",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "attack": 55,
+      "defense": 40,
+      "special": 50,
+      "speed": 90
+    },
+    "moves": [
+      {
+        "name": "thunder",
+        "type": "electric",
+        "power": 110,
+        "category": "special",
+        "levelLearned": 43
+      },
+      {
+        "name": "swift",
+        "type": "normal",
+        "power": 60,
+        "category": "special",
+        "levelLearned": 26
+      },
+      {
+        "name": "thunder-shock",
+        "type": "electric",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "growl",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 180,
+      "attack": 115,
+      "defense": 85,
+      "special": 105,
+      "speed": 185
+    }
+  },
+  {
+    "id": 26,
+    "name": "raichu",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "attack": 90,
+      "defense": 55,
+      "special": 90,
+      "speed": 110
+    },
+    "moves": [
+      {
+        "name": "thunder-shock",
+        "type": "electric",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "growl",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      },
+      {
+        "name": "thunder-wave",
+        "type": "electric",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 230,
+      "attack": 185,
+      "defense": 115,
+      "special": 185,
+      "speed": 225
+    }
+  },
+  {
+    "id": 27,
+    "name": "sandshrew",
+    "types": [
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "attack": 75,
+      "defense": 85,
+      "special": 20,
+      "speed": 40
+    },
+    "moves": [
+      {
+        "name": "slash",
+        "type": "normal",
+        "power": 70,
+        "category": "physical",
+        "levelLearned": 17
+      },
+      {
+        "name": "swift",
+        "type": "normal",
+        "power": 60,
+        "category": "special",
+        "levelLearned": 31
+      },
+      {
+        "name": "scratch",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "sand-attack",
+        "type": "ground",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 10
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 210,
+      "attack": 155,
+      "defense": 175,
+      "special": 45,
+      "speed": 85
+    }
+  },
+  {
+    "id": 28,
+    "name": "sandslash",
+    "types": [
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "attack": 100,
+      "defense": 110,
+      "special": 45,
+      "speed": 65
+    },
+    "moves": [
+      {
+        "name": "slash",
+        "type": "normal",
+        "power": 70,
+        "category": "physical",
+        "levelLearned": 17
+      },
+      {
+        "name": "swift",
+        "type": "normal",
+        "power": 60,
+        "category": "special",
+        "levelLearned": 36
+      },
+      {
+        "name": "scratch",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "sand-attack",
+        "type": "ground",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 260,
+      "attack": 205,
+      "defense": 225,
+      "special": 95,
+      "speed": 135
+    }
+  },
+  {
+    "id": 29,
+    "name": "nidoran-f",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "attack": 47,
+      "defense": 52,
+      "special": 40,
+      "speed": 41
+    },
+    "moves": [
+      {
+        "name": "bite",
+        "type": "dark",
+        "power": 60,
+        "category": "physical",
+        "levelLearned": 29
+      },
+      {
+        "name": "scratch",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 8
+      },
+      {
+        "name": "tackle",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "tail-whip",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 21
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 220,
+      "attack": 99,
+      "defense": 109,
+      "special": 85,
+      "speed": 87
+    }
+  },
+  {
+    "id": 30,
+    "name": "nidorina",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "attack": 62,
+      "defense": 67,
+      "special": 55,
+      "speed": 56
+    },
+    "moves": [
+      {
+        "name": "bite",
+        "type": "dark",
+        "power": 60,
+        "category": "physical",
+        "levelLearned": 32
+      },
+      {
+        "name": "scratch",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "tackle",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "tail-whip",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 23
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 250,
+      "attack": 129,
+      "defense": 139,
+      "special": 115,
+      "speed": 117
+    }
+  },
+  {
+    "id": 31,
+    "name": "nidoqueen",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "attack": 92,
+      "defense": 87,
+      "special": 75,
+      "speed": 76
+    },
+    "moves": [
+      {
+        "name": "body-slam",
+        "type": "normal",
+        "power": 85,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "scratch",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "tackle",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "tail-whip",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 290,
+      "attack": 189,
+      "defense": 179,
+      "special": 155,
+      "speed": 157
+    }
+  },
+  {
+    "id": 32,
+    "name": "nidoran-m",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 46,
+      "attack": 57,
+      "defense": 40,
+      "special": 40,
+      "speed": 50
+    },
+    "moves": [
+      {
+        "name": "horn-attack",
+        "type": "normal",
+        "power": 65,
+        "category": "physical",
+        "levelLearned": 8
+      },
+      {
+        "name": "tackle",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "double-kick",
+        "type": "fighting",
+        "power": 30,
+        "category": "physical",
+        "levelLearned": 43
+      },
+      {
+        "name": "horn-drill",
+        "type": "normal",
+        "power": 0,
+        "category": "physical",
+        "levelLearned": 36
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 202,
+      "attack": 119,
+      "defense": 85,
+      "special": 85,
+      "speed": 105
+    }
+  },
+  {
+    "id": 33,
+    "name": "nidorino",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 61,
+      "attack": 72,
+      "defense": 57,
+      "special": 55,
+      "speed": 65
+    },
+    "moves": [
+      {
+        "name": "horn-attack",
+        "type": "normal",
+        "power": 65,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "tackle",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "double-kick",
+        "type": "fighting",
+        "power": 30,
+        "category": "physical",
+        "levelLearned": 50
+      },
+      {
+        "name": "horn-drill",
+        "type": "normal",
+        "power": 0,
+        "category": "physical",
+        "levelLearned": 41
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 232,
+      "attack": 149,
+      "defense": 119,
+      "special": 115,
+      "speed": 135
+    }
+  },
+  {
+    "id": 34,
+    "name": "nidoking",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 81,
+      "attack": 102,
+      "defense": 77,
+      "special": 85,
+      "speed": 85
+    },
+    "moves": [
+      {
+        "name": "thrash",
+        "type": "normal",
+        "power": 120,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "horn-attack",
+        "type": "normal",
+        "power": 65,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "tackle",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 272,
+      "attack": 209,
+      "defense": 159,
+      "special": 175,
+      "speed": 175
+    }
+  },
+  {
+    "id": 35,
+    "name": "clefairy",
+    "types": [
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "attack": 45,
+      "defense": 48,
+      "special": 60,
+      "speed": 35
+    },
+    "moves": [
+      {
+        "name": "pound",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "double-slap",
+        "type": "normal",
+        "power": 15,
+        "category": "physical",
+        "levelLearned": 18
+      },
+      {
+        "name": "growl",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      },
+      {
+        "name": "sing",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 13
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 250,
+      "attack": 95,
+      "defense": 101,
+      "special": 125,
+      "speed": 75
+    }
+  },
+  {
+    "id": 36,
+    "name": "clefable",
+    "types": [
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "attack": 70,
+      "defense": 73,
+      "special": 95,
+      "speed": 60
+    },
+    "moves": [
+      {
+        "name": "double-slap",
+        "type": "normal",
+        "power": 15,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "sing",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      },
+      {
+        "name": "minimize",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      },
+      {
+        "name": "metronome",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 300,
+      "attack": 145,
+      "defense": 151,
+      "special": 195,
+      "speed": 125
+    }
+  },
+  {
+    "id": 37,
+    "name": "vulpix",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 38,
+      "attack": 41,
+      "defense": 40,
+      "special": 50,
+      "speed": 65
+    },
+    "moves": [
+      {
+        "name": "flamethrower",
+        "type": "fire",
+        "power": 90,
+        "category": "special",
+        "levelLearned": 35
+      },
+      {
+        "name": "ember",
+        "type": "fire",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "quick-attack",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 16
+      },
+      {
+        "name": "tail-whip",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 186,
+      "attack": 87,
+      "defense": 85,
+      "special": 105,
+      "speed": 135
+    }
+  },
+  {
+    "id": 38,
+    "name": "ninetales",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 73,
+      "attack": 76,
+      "defense": 75,
+      "special": 81,
+      "speed": 100
+    },
+    "moves": [
+      {
+        "name": "ember",
+        "type": "fire",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "quick-attack",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "tail-whip",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      },
+      {
+        "name": "roar",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 256,
+      "attack": 157,
+      "defense": 155,
+      "special": 167,
+      "speed": 205
+    }
+  },
+  {
+    "id": 39,
+    "name": "jigglypuff",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 115,
+      "attack": 45,
+      "defense": 20,
+      "special": 45,
+      "speed": 20
+    },
+    "moves": [
+      {
+        "name": "double-edge",
+        "type": "normal",
+        "power": 120,
+        "category": "physical",
+        "levelLearned": 39
+      },
+      {
+        "name": "body-slam",
+        "type": "normal",
+        "power": 85,
+        "category": "physical",
+        "levelLearned": 34
+      },
+      {
+        "name": "pound",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 9
+      },
+      {
+        "name": "sing",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 340,
+      "attack": 95,
+      "defense": 45,
+      "special": 95,
+      "speed": 45
+    }
+  },
+  {
+    "id": 40,
+    "name": "wigglytuff",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 140,
+      "attack": 70,
+      "defense": 45,
+      "special": 85,
+      "speed": 45
+    },
+    "moves": [
+      {
+        "name": "double-slap",
+        "type": "normal",
+        "power": 15,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "sing",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      },
+      {
+        "name": "disable",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      },
+      {
+        "name": "defense-curl",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 390,
+      "attack": 145,
+      "defense": 95,
+      "special": 175,
+      "speed": 95
+    }
+  },
+  {
+    "id": 41,
+    "name": "zubat",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 35,
+      "special": 30,
+      "speed": 55
+    },
+    "moves": [
+      {
+        "name": "leech-life",
+        "type": "bug",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "wing-attack",
+        "type": "flying",
+        "power": 60,
+        "category": "physical",
+        "levelLearned": 28
+      },
+      {
+        "name": "bite",
+        "type": "dark",
+        "power": 60,
+        "category": "physical",
+        "levelLearned": 15
+      },
+      {
+        "name": "supersonic",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 10
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 190,
+      "attack": 95,
+      "defense": 75,
+      "special": 65,
+      "speed": 115
+    }
+  },
+  {
+    "id": 42,
+    "name": "golbat",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "attack": 80,
+      "defense": 70,
+      "special": 65,
+      "speed": 90
+    },
+    "moves": [
+      {
+        "name": "leech-life",
+        "type": "bug",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "wing-attack",
+        "type": "flying",
+        "power": 60,
+        "category": "physical",
+        "levelLearned": 32
+      },
+      {
+        "name": "bite",
+        "type": "dark",
+        "power": 60,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "supersonic",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 10
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 260,
+      "attack": 165,
+      "defense": 145,
+      "special": 135,
+      "speed": 185
+    }
+  },
+  {
+    "id": 43,
+    "name": "oddish",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "attack": 50,
+      "defense": 55,
+      "special": 75,
+      "speed": 30
+    },
+    "moves": [
+      {
+        "name": "solar-beam",
+        "type": "grass",
+        "power": 120,
+        "category": "special",
+        "levelLearned": 46
+      },
+      {
+        "name": "petal-dance",
+        "type": "grass",
+        "power": 120,
+        "category": "special",
+        "levelLearned": 33
+      },
+      {
+        "name": "acid",
+        "type": "poison",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 24
+      },
+      {
+        "name": "poison-powder",
+        "type": "poison",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 15
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 200,
+      "attack": 105,
+      "defense": 115,
+      "special": 155,
+      "speed": 65
+    }
+  },
+  {
+    "id": 44,
+    "name": "gloom",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "attack": 65,
+      "defense": 70,
+      "special": 85,
+      "speed": 40
+    },
+    "moves": [
+      {
+        "name": "solar-beam",
+        "type": "grass",
+        "power": 120,
+        "category": "special",
+        "levelLearned": 52
+      },
+      {
+        "name": "petal-dance",
+        "type": "grass",
+        "power": 120,
+        "category": "special",
+        "levelLearned": 38
+      },
+      {
+        "name": "acid",
+        "type": "poison",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 28
+      },
+      {
+        "name": "poison-powder",
+        "type": "poison",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 230,
+      "attack": 135,
+      "defense": 145,
+      "special": 175,
+      "speed": 85
+    }
+  },
+  {
+    "id": 45,
+    "name": "vileplume",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "attack": 80,
+      "defense": 85,
+      "special": 110,
+      "speed": 50
+    },
+    "moves": [
+      {
+        "name": "petal-dance",
+        "type": "grass",
+        "power": 120,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "acid",
+        "type": "poison",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "poison-powder",
+        "type": "poison",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 15
+      },
+      {
+        "name": "stun-spore",
+        "type": "grass",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 260,
+      "attack": 165,
+      "defense": 175,
+      "special": 225,
+      "speed": 105
+    }
+  },
+  {
+    "id": 46,
+    "name": "paras",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "attack": 70,
+      "defense": 55,
+      "special": 45,
+      "speed": 25
+    },
+    "moves": [
+      {
+        "name": "leech-life",
+        "type": "bug",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 20
+      },
+      {
+        "name": "slash",
+        "type": "normal",
+        "power": 70,
+        "category": "physical",
+        "levelLearned": 34
+      },
+      {
+        "name": "scratch",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "growth",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 41
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 180,
+      "attack": 145,
+      "defense": 115,
+      "special": 95,
+      "speed": 55
+    }
+  },
+  {
+    "id": 47,
+    "name": "parasect",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "attack": 95,
+      "defense": 80,
+      "special": 60,
+      "speed": 30
+    },
+    "moves": [
+      {
+        "name": "leech-life",
+        "type": "bug",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "slash",
+        "type": "normal",
+        "power": 70,
+        "category": "physical",
+        "levelLearned": 39
+      },
+      {
+        "name": "scratch",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "growth",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 48
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 230,
+      "attack": 195,
+      "defense": 165,
+      "special": 125,
+      "speed": 65
+    }
+  },
+  {
+    "id": 48,
+    "name": "venonat",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "attack": 55,
+      "defense": 50,
+      "special": 40,
+      "speed": 45
+    },
+    "moves": [
+      {
+        "name": "psychic",
+        "type": "psychic",
+        "power": 90,
+        "category": "special",
+        "levelLearned": 43
+      },
+      {
+        "name": "leech-life",
+        "type": "bug",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 27
+      },
+      {
+        "name": "psybeam",
+        "type": "psychic",
+        "power": 65,
+        "category": "special",
+        "levelLearned": 35
+      },
+      {
+        "name": "disable",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 230,
+      "attack": 115,
+      "defense": 105,
+      "special": 85,
+      "speed": 95
+    }
+  },
+  {
+    "id": 49,
+    "name": "venomoth",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "attack": 65,
+      "defense": 60,
+      "special": 90,
+      "speed": 90
+    },
+    "moves": [
+      {
+        "name": "psychic",
+        "type": "psychic",
+        "power": 90,
+        "category": "special",
+        "levelLearned": 50
+      },
+      {
+        "name": "leech-life",
+        "type": "bug",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "psybeam",
+        "type": "psychic",
+        "power": 65,
+        "category": "special",
+        "levelLearned": 38
+      },
+      {
+        "name": "disable",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 250,
+      "attack": 135,
+      "defense": 125,
+      "special": 185,
+      "speed": 185
+    }
+  },
+  {
+    "id": 50,
+    "name": "diglett",
+    "types": [
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 10,
+      "attack": 55,
+      "defense": 25,
+      "special": 35,
+      "speed": 95
+    },
+    "moves": [
+      {
+        "name": "earthquake",
+        "type": "ground",
+        "power": 100,
+        "category": "physical",
+        "levelLearned": 40
+      },
+      {
+        "name": "dig",
+        "type": "ground",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 19
+      },
+      {
+        "name": "slash",
+        "type": "normal",
+        "power": 70,
+        "category": "physical",
+        "levelLearned": 31
+      },
+      {
+        "name": "sand-attack",
+        "type": "ground",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 24
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 130,
+      "attack": 115,
+      "defense": 55,
+      "special": 75,
+      "speed": 195
+    }
+  },
+  {
+    "id": 51,
+    "name": "dugtrio",
+    "types": [
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "attack": 100,
+      "defense": 50,
+      "special": 50,
+      "speed": 120
+    },
+    "moves": [
+      {
+        "name": "earthquake",
+        "type": "ground",
+        "power": 100,
+        "category": "physical",
+        "levelLearned": 47
+      },
+      {
+        "name": "dig",
+        "type": "ground",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "slash",
+        "type": "normal",
+        "power": 70,
+        "category": "physical",
+        "levelLearned": 35
+      },
+      {
+        "name": "sand-attack",
+        "type": "ground",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 24
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 180,
+      "attack": 205,
+      "defense": 105,
+      "special": 105,
+      "speed": 245
+    }
+  },
+  {
+    "id": 52,
+    "name": "meowth",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 35,
+      "special": 40,
+      "speed": 90
+    },
+    "moves": [
+      {
+        "name": "slash",
+        "type": "normal",
+        "power": 70,
+        "category": "physical",
+        "levelLearned": 44
+      },
+      {
+        "name": "bite",
+        "type": "dark",
+        "power": 60,
+        "category": "physical",
+        "levelLearned": 12
+      },
+      {
+        "name": "pay-day",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 17
+      },
+      {
+        "name": "growl",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 190,
+      "attack": 95,
+      "defense": 75,
+      "special": 85,
+      "speed": 185
+    }
+  },
+  {
+    "id": 53,
+    "name": "persian",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "attack": 70,
+      "defense": 60,
+      "special": 65,
+      "speed": 115
+    },
+    "moves": [
+      {
+        "name": "slash",
+        "type": "normal",
+        "power": 70,
+        "category": "physical",
+        "levelLearned": 51
+      },
+      {
+        "name": "bite",
+        "type": "dark",
+        "power": 60,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "pay-day",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 17
+      },
+      {
+        "name": "growl",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 240,
+      "attack": 145,
+      "defense": 125,
+      "special": 135,
+      "speed": 235
+    }
+  },
+  {
+    "id": 54,
+    "name": "psyduck",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "attack": 52,
+      "defense": 48,
+      "special": 65,
+      "speed": 55
+    },
+    "moves": [
+      {
+        "name": "hydro-pump",
+        "type": "water",
+        "power": 110,
+        "category": "special",
+        "levelLearned": 52
+      },
+      {
+        "name": "confusion",
+        "type": "psychic",
+        "power": 50,
+        "category": "special",
+        "levelLearned": 36
+      },
+      {
+        "name": "scratch",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "tail-whip",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 28
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 210,
+      "attack": 109,
+      "defense": 101,
+      "special": 135,
+      "speed": 115
+    }
+  },
+  {
+    "id": 55,
+    "name": "golduck",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "attack": 82,
+      "defense": 78,
+      "special": 95,
+      "speed": 85
+    },
+    "moves": [
+      {
+        "name": "hydro-pump",
+        "type": "water",
+        "power": 110,
+        "category": "special",
+        "levelLearned": 59
+      },
+      {
+        "name": "confusion",
+        "type": "psychic",
+        "power": 50,
+        "category": "special",
+        "levelLearned": 39
+      },
+      {
+        "name": "scratch",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "tail-whip",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 270,
+      "attack": 169,
+      "defense": 161,
+      "special": 195,
+      "speed": 175
+    }
+  },
+  {
+    "id": 56,
+    "name": "mankey",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "attack": 80,
+      "defense": 35,
+      "special": 35,
+      "speed": 70
+    },
+    "moves": [
+      {
+        "name": "thrash",
+        "type": "normal",
+        "power": 120,
+        "category": "physical",
+        "levelLearned": 39
+      },
+      {
+        "name": "karate-chop",
+        "type": "fighting",
+        "power": 50,
+        "category": "physical",
+        "levelLearned": 15
+      },
+      {
+        "name": "scratch",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 190,
+      "attack": 165,
+      "defense": 75,
+      "special": 75,
+      "speed": 145
+    }
+  },
+  {
+    "id": 57,
+    "name": "primeape",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "attack": 105,
+      "defense": 60,
+      "special": 60,
+      "speed": 95
+    },
+    "moves": [
+      {
+        "name": "thrash",
+        "type": "normal",
+        "power": 120,
+        "category": "physical",
+        "levelLearned": 46
+      },
+      {
+        "name": "karate-chop",
+        "type": "fighting",
+        "power": 50,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "scratch",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 240,
+      "attack": 215,
+      "defense": 125,
+      "special": 125,
+      "speed": 195
+    }
+  },
+  {
+    "id": 58,
+    "name": "growlithe",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "attack": 70,
+      "defense": 45,
+      "special": 70,
+      "speed": 60
+    },
+    "moves": [
+      {
+        "name": "take-down",
+        "type": "normal",
+        "power": 90,
+        "category": "physical",
+        "levelLearned": 30
+      },
+      {
+        "name": "flamethrower",
+        "type": "fire",
+        "power": 90,
+        "category": "special",
+        "levelLearned": 50
+      },
+      {
+        "name": "bite",
+        "type": "dark",
+        "power": 60,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 23
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 220,
+      "attack": 145,
+      "defense": 95,
+      "special": 145,
+      "speed": 125
+    }
+  },
+  {
+    "id": 59,
+    "name": "arcanine",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "attack": 110,
+      "defense": 80,
+      "special": 100,
+      "speed": 95
+    },
+    "moves": [
+      {
+        "name": "take-down",
+        "type": "normal",
+        "power": 90,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "ember",
+        "type": "fire",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      },
+      {
+        "name": "roar",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 290,
+      "attack": 225,
+      "defense": 165,
+      "special": 205,
+      "speed": 195
+    }
+  },
+  {
+    "id": 60,
+    "name": "poliwag",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "attack": 50,
+      "defense": 40,
+      "special": 40,
+      "speed": 90
+    },
+    "moves": [
+      {
+        "name": "hydro-pump",
+        "type": "water",
+        "power": 110,
+        "category": "special",
+        "levelLearned": 45
+      },
+      {
+        "name": "body-slam",
+        "type": "normal",
+        "power": 85,
+        "category": "physical",
+        "levelLearned": 31
+      },
+      {
+        "name": "water-gun",
+        "type": "water",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 19
+      },
+      {
+        "name": "hypnosis",
+        "type": "psychic",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 16
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 190,
+      "attack": 105,
+      "defense": 85,
+      "special": 85,
+      "speed": 185
+    }
+  },
+  {
+    "id": 61,
+    "name": "poliwhirl",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "attack": 65,
+      "defense": 65,
+      "special": 50,
+      "speed": 90
+    },
+    "moves": [
+      {
+        "name": "hydro-pump",
+        "type": "water",
+        "power": 110,
+        "category": "special",
+        "levelLearned": 49
+      },
+      {
+        "name": "body-slam",
+        "type": "normal",
+        "power": 85,
+        "category": "physical",
+        "levelLearned": 33
+      },
+      {
+        "name": "water-gun",
+        "type": "water",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "hypnosis",
+        "type": "psychic",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 240,
+      "attack": 135,
+      "defense": 135,
+      "special": 105,
+      "speed": 185
+    }
+  },
+  {
+    "id": 62,
+    "name": "poliwrath",
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "attack": 95,
+      "defense": 95,
+      "special": 70,
+      "speed": 70
+    },
+    "moves": [
+      {
+        "name": "body-slam",
+        "type": "normal",
+        "power": 85,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "water-gun",
+        "type": "water",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "double-slap",
+        "type": "normal",
+        "power": 15,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "hypnosis",
+        "type": "psychic",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 290,
+      "attack": 195,
+      "defense": 195,
+      "special": 145,
+      "speed": 145
+    }
+  },
+  {
+    "id": 63,
+    "name": "abra",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 25,
+      "attack": 20,
+      "defense": 15,
+      "special": 105,
+      "speed": 90
+    },
+    "moves": [
+      {
+        "name": "teleport",
+        "type": "psychic",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 160,
+      "attack": 45,
+      "defense": 35,
+      "special": 215,
+      "speed": 185
+    }
+  },
+  {
+    "id": 64,
+    "name": "kadabra",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "attack": 35,
+      "defense": 30,
+      "special": 120,
+      "speed": 105
+    },
+    "moves": [
+      {
+        "name": "psychic",
+        "type": "psychic",
+        "power": 90,
+        "category": "special",
+        "levelLearned": 38
+      },
+      {
+        "name": "psybeam",
+        "type": "psychic",
+        "power": 65,
+        "category": "special",
+        "levelLearned": 27
+      },
+      {
+        "name": "confusion",
+        "type": "psychic",
+        "power": 50,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "disable",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 190,
+      "attack": 75,
+      "defense": 65,
+      "special": 245,
+      "speed": 215
+    }
+  },
+  {
+    "id": 65,
+    "name": "alakazam",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "attack": 50,
+      "defense": 45,
+      "special": 135,
+      "speed": 120
+    },
+    "moves": [
+      {
+        "name": "psychic",
+        "type": "psychic",
+        "power": 90,
+        "category": "special",
+        "levelLearned": 38
+      },
+      {
+        "name": "psybeam",
+        "type": "psychic",
+        "power": 65,
+        "category": "special",
+        "levelLearned": 27
+      },
+      {
+        "name": "confusion",
+        "type": "psychic",
+        "power": 50,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "disable",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 220,
+      "attack": 105,
+      "defense": 95,
+      "special": 275,
+      "speed": 245
+    }
+  },
+  {
+    "id": 66,
+    "name": "machop",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "attack": 80,
+      "defense": 50,
+      "special": 35,
+      "speed": 35
+    },
+    "moves": [
+      {
+        "name": "submission",
+        "type": "fighting",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 46
+      },
+      {
+        "name": "karate-chop",
+        "type": "fighting",
+        "power": 50,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 25
+      },
+      {
+        "name": "low-kick",
+        "type": "fighting",
+        "power": 0,
+        "category": "physical",
+        "levelLearned": 20
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 250,
+      "attack": 165,
+      "defense": 105,
+      "special": 75,
+      "speed": 75
+    }
+  },
+  {
+    "id": 67,
+    "name": "machoke",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "attack": 100,
+      "defense": 70,
+      "special": 50,
+      "speed": 45
+    },
+    "moves": [
+      {
+        "name": "submission",
+        "type": "fighting",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 52
+      },
+      {
+        "name": "karate-chop",
+        "type": "fighting",
+        "power": 50,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      },
+      {
+        "name": "low-kick",
+        "type": "fighting",
+        "power": 0,
+        "category": "physical",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 270,
+      "attack": 205,
+      "defense": 145,
+      "special": 105,
+      "speed": 95
+    }
+  },
+  {
+    "id": 68,
+    "name": "machamp",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "attack": 130,
+      "defense": 80,
+      "special": 65,
+      "speed": 55
+    },
+    "moves": [
+      {
+        "name": "submission",
+        "type": "fighting",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 52
+      },
+      {
+        "name": "karate-chop",
+        "type": "fighting",
+        "power": 50,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      },
+      {
+        "name": "low-kick",
+        "type": "fighting",
+        "power": 0,
+        "category": "physical",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 290,
+      "attack": 265,
+      "defense": 165,
+      "special": 135,
+      "speed": 115
+    }
+  },
+  {
+    "id": 69,
+    "name": "bellsprout",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "attack": 75,
+      "defense": 35,
+      "special": 70,
+      "speed": 40
+    },
+    "moves": [
+      {
+        "name": "slam",
+        "type": "normal",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 42
+      },
+      {
+        "name": "razor-leaf",
+        "type": "grass",
+        "power": 55,
+        "category": "physical",
+        "levelLearned": 33
+      },
+      {
+        "name": "vine-whip",
+        "type": "grass",
+        "power": 45,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "growth",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 210,
+      "attack": 155,
+      "defense": 75,
+      "special": 145,
+      "speed": 85
+    }
+  },
+  {
+    "id": 70,
+    "name": "weepinbell",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 50,
+      "special": 85,
+      "speed": 55
+    },
+    "moves": [
+      {
+        "name": "slam",
+        "type": "normal",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 49
+      },
+      {
+        "name": "razor-leaf",
+        "type": "grass",
+        "power": 55,
+        "category": "physical",
+        "levelLearned": 38
+      },
+      {
+        "name": "vine-whip",
+        "type": "grass",
+        "power": 45,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "growth",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 240,
+      "attack": 185,
+      "defense": 105,
+      "special": 175,
+      "speed": 115
+    }
+  },
+  {
+    "id": 71,
+    "name": "victreebel",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "attack": 105,
+      "defense": 65,
+      "special": 100,
+      "speed": 70
+    },
+    "moves": [
+      {
+        "name": "razor-leaf",
+        "type": "grass",
+        "power": 55,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "acid",
+        "type": "poison",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "wrap",
+        "type": "normal",
+        "power": 15,
+        "category": "physical",
+        "levelLearned": 13
+      },
+      {
+        "name": "poison-powder",
+        "type": "poison",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 15
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 270,
+      "attack": 215,
+      "defense": 135,
+      "special": 205,
+      "speed": 145
+    }
+  },
+  {
+    "id": 72,
+    "name": "tentacool",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "attack": 40,
+      "defense": 35,
+      "special": 50,
+      "speed": 70
+    },
+    "moves": [
+      {
+        "name": "hydro-pump",
+        "type": "water",
+        "power": 110,
+        "category": "special",
+        "levelLearned": 48
+      },
+      {
+        "name": "acid",
+        "type": "poison",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "water-gun",
+        "type": "water",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 22
+      },
+      {
+        "name": "supersonic",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 7
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 190,
+      "attack": 85,
+      "defense": 75,
+      "special": 105,
+      "speed": 145
+    }
+  },
+  {
+    "id": 73,
+    "name": "tentacruel",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "attack": 70,
+      "defense": 65,
+      "special": 80,
+      "speed": 100
+    },
+    "moves": [
+      {
+        "name": "hydro-pump",
+        "type": "water",
+        "power": 110,
+        "category": "special",
+        "levelLearned": 50
+      },
+      {
+        "name": "acid",
+        "type": "poison",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "water-gun",
+        "type": "water",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 22
+      },
+      {
+        "name": "supersonic",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 270,
+      "attack": 145,
+      "defense": 135,
+      "special": 165,
+      "speed": 205
+    }
+  },
+  {
+    "id": 74,
+    "name": "geodude",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "attack": 80,
+      "defense": 100,
+      "special": 30,
+      "speed": 20
+    },
+    "moves": [
+      {
+        "name": "explosion",
+        "type": "normal",
+        "power": 250,
+        "category": "physical",
+        "levelLearned": 36
+      },
+      {
+        "name": "self-destruct",
+        "type": "normal",
+        "power": 200,
+        "category": "physical",
+        "levelLearned": 21
+      },
+      {
+        "name": "earthquake",
+        "type": "ground",
+        "power": 100,
+        "category": "physical",
+        "levelLearned": 31
+      },
+      {
+        "name": "harden",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 26
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 190,
+      "attack": 165,
+      "defense": 205,
+      "special": 65,
+      "speed": 45
+    }
+  },
+  {
+    "id": 75,
+    "name": "graveler",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "attack": 95,
+      "defense": 115,
+      "special": 45,
+      "speed": 35
+    },
+    "moves": [
+      {
+        "name": "explosion",
+        "type": "normal",
+        "power": 250,
+        "category": "physical",
+        "levelLearned": 43
+      },
+      {
+        "name": "self-destruct",
+        "type": "normal",
+        "power": 200,
+        "category": "physical",
+        "levelLearned": 21
+      },
+      {
+        "name": "earthquake",
+        "type": "ground",
+        "power": 100,
+        "category": "physical",
+        "levelLearned": 36
+      },
+      {
+        "name": "harden",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 29
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 220,
+      "attack": 195,
+      "defense": 235,
+      "special": 95,
+      "speed": 75
+    }
+  },
+  {
+    "id": 76,
+    "name": "golem",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "attack": 120,
+      "defense": 130,
+      "special": 55,
+      "speed": 45
+    },
+    "moves": [
+      {
+        "name": "explosion",
+        "type": "normal",
+        "power": 250,
+        "category": "physical",
+        "levelLearned": 43
+      },
+      {
+        "name": "self-destruct",
+        "type": "normal",
+        "power": 200,
+        "category": "physical",
+        "levelLearned": 21
+      },
+      {
+        "name": "earthquake",
+        "type": "ground",
+        "power": 100,
+        "category": "physical",
+        "levelLearned": 36
+      },
+      {
+        "name": "harden",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 29
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 270,
+      "attack": 245,
+      "defense": 265,
+      "special": 115,
+      "speed": 95
+    }
+  },
+  {
+    "id": 77,
+    "name": "ponyta",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "attack": 85,
+      "defense": 55,
+      "special": 65,
+      "speed": 90
+    },
+    "moves": [
+      {
+        "name": "take-down",
+        "type": "normal",
+        "power": 90,
+        "category": "physical",
+        "levelLearned": 43
+      },
+      {
+        "name": "stomp",
+        "type": "normal",
+        "power": 65,
+        "category": "physical",
+        "levelLearned": 32
+      },
+      {
+        "name": "ember",
+        "type": "fire",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "tail-whip",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 30
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 210,
+      "attack": 175,
+      "defense": 115,
+      "special": 135,
+      "speed": 185
+    }
+  },
+  {
+    "id": 78,
+    "name": "rapidash",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "attack": 100,
+      "defense": 70,
+      "special": 80,
+      "speed": 105
+    },
+    "moves": [
+      {
+        "name": "take-down",
+        "type": "normal",
+        "power": 90,
+        "category": "physical",
+        "levelLearned": 47
+      },
+      {
+        "name": "stomp",
+        "type": "normal",
+        "power": 65,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "ember",
+        "type": "fire",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "tail-whip",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 240,
+      "attack": 205,
+      "defense": 145,
+      "special": 165,
+      "speed": 215
+    }
+  },
+  {
+    "id": 79,
+    "name": "slowpoke",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "attack": 65,
+      "defense": 65,
+      "special": 40,
+      "speed": 15
+    },
+    "moves": [
+      {
+        "name": "psychic",
+        "type": "psychic",
+        "power": 90,
+        "category": "special",
+        "levelLearned": 48
+      },
+      {
+        "name": "headbutt",
+        "type": "normal",
+        "power": 70,
+        "category": "physical",
+        "levelLearned": 22
+      },
+      {
+        "name": "confusion",
+        "type": "psychic",
+        "power": 50,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "growl",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 27
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 290,
+      "attack": 135,
+      "defense": 135,
+      "special": 85,
+      "speed": 35
+    }
+  },
+  {
+    "id": 80,
+    "name": "slowbro",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "attack": 75,
+      "defense": 110,
+      "special": 100,
+      "speed": 30
+    },
+    "moves": [
+      {
+        "name": "psychic",
+        "type": "psychic",
+        "power": 90,
+        "category": "special",
+        "levelLearned": 55
+      },
+      {
+        "name": "headbutt",
+        "type": "normal",
+        "power": 70,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "confusion",
+        "type": "psychic",
+        "power": 50,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "growl",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 27
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 300,
+      "attack": 155,
+      "defense": 225,
+      "special": 205,
+      "speed": 65
+    }
+  },
+  {
+    "id": 81,
+    "name": "magnemite",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 25,
+      "attack": 35,
+      "defense": 70,
+      "special": 95,
+      "speed": 45
+    },
+    "moves": [
+      {
+        "name": "swift",
+        "type": "normal",
+        "power": 60,
+        "category": "special",
+        "levelLearned": 41
+      },
+      {
+        "name": "tackle",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "thunder-shock",
+        "type": "electric",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 25
+      },
+      {
+        "name": "supersonic",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 29
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 160,
+      "attack": 75,
+      "defense": 145,
+      "special": 195,
+      "speed": 95
+    }
+  },
+  {
+    "id": 82,
+    "name": "magneton",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "attack": 60,
+      "defense": 95,
+      "special": 120,
+      "speed": 70
+    },
+    "moves": [
+      {
+        "name": "swift",
+        "type": "normal",
+        "power": 60,
+        "category": "special",
+        "levelLearned": 46
+      },
+      {
+        "name": "tackle",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "thunder-shock",
+        "type": "electric",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "supersonic",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 29
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 210,
+      "attack": 125,
+      "defense": 195,
+      "special": 245,
+      "speed": 145
+    }
+  },
+  {
+    "id": 83,
+    "name": "farfetchd",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 52,
+      "attack": 90,
+      "defense": 55,
+      "special": 58,
+      "speed": 60
+    },
+    "moves": [
+      {
+        "name": "slash",
+        "type": "normal",
+        "power": 70,
+        "category": "physical",
+        "levelLearned": 39
+      },
+      {
+        "name": "peck",
+        "type": "flying",
+        "power": 35,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "fury-attack",
+        "type": "normal",
+        "power": 15,
+        "category": "physical",
+        "levelLearned": 15
+      },
+      {
+        "name": "swords-dance",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 23
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 214,
+      "attack": 185,
+      "defense": 115,
+      "special": 121,
+      "speed": 125
+    }
+  },
+  {
+    "id": 84,
+    "name": "doduo",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "attack": 85,
+      "defense": 45,
+      "special": 35,
+      "speed": 75
+    },
+    "moves": [
+      {
+        "name": "drill-peck",
+        "type": "flying",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 30
+      },
+      {
+        "name": "tri-attack",
+        "type": "normal",
+        "power": 80,
+        "category": "special",
+        "levelLearned": 40
+      },
+      {
+        "name": "peck",
+        "type": "flying",
+        "power": 35,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "growl",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 20
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 180,
+      "attack": 175,
+      "defense": 95,
+      "special": 75,
+      "speed": 155
+    }
+  },
+  {
+    "id": 85,
+    "name": "dodrio",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "attack": 110,
+      "defense": 70,
+      "special": 60,
+      "speed": 110
+    },
+    "moves": [
+      {
+        "name": "drill-peck",
+        "type": "flying",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 30
+      },
+      {
+        "name": "tri-attack",
+        "type": "normal",
+        "power": 80,
+        "category": "special",
+        "levelLearned": 45
+      },
+      {
+        "name": "peck",
+        "type": "flying",
+        "power": 35,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "growl",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 230,
+      "attack": 225,
+      "defense": 145,
+      "special": 125,
+      "speed": 225
+    }
+  },
+  {
+    "id": 86,
+    "name": "seel",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "attack": 45,
+      "defense": 55,
+      "special": 45,
+      "speed": 45
+    },
+    "moves": [
+      {
+        "name": "take-down",
+        "type": "normal",
+        "power": 90,
+        "category": "physical",
+        "levelLearned": 45
+      },
+      {
+        "name": "ice-beam",
+        "type": "ice",
+        "power": 90,
+        "category": "special",
+        "levelLearned": 50
+      },
+      {
+        "name": "headbutt",
+        "type": "normal",
+        "power": 70,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "growl",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 30
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 240,
+      "attack": 95,
+      "defense": 115,
+      "special": 95,
+      "speed": 95
+    }
+  },
+  {
+    "id": 87,
+    "name": "dewgong",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "attack": 70,
+      "defense": 80,
+      "special": 70,
+      "speed": 70
+    },
+    "moves": [
+      {
+        "name": "take-down",
+        "type": "normal",
+        "power": 90,
+        "category": "physical",
+        "levelLearned": 50
+      },
+      {
+        "name": "ice-beam",
+        "type": "ice",
+        "power": 90,
+        "category": "special",
+        "levelLearned": 56
+      },
+      {
+        "name": "headbutt",
+        "type": "normal",
+        "power": 70,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "growl",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 290,
+      "attack": 145,
+      "defense": 165,
+      "special": 145,
+      "speed": 145
+    }
+  },
+  {
+    "id": 88,
+    "name": "grimer",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "attack": 80,
+      "defense": 50,
+      "special": 40,
+      "speed": 25
+    },
+    "moves": [
+      {
+        "name": "sludge",
+        "type": "poison",
+        "power": 65,
+        "category": "special",
+        "levelLearned": 37
+      },
+      {
+        "name": "pound",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "disable",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      },
+      {
+        "name": "screech",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 48
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 270,
+      "attack": 165,
+      "defense": 105,
+      "special": 85,
+      "speed": 55
+    }
+  },
+  {
+    "id": 89,
+    "name": "muk",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 105,
+      "attack": 105,
+      "defense": 75,
+      "special": 65,
+      "speed": 50
+    },
+    "moves": [
+      {
+        "name": "sludge",
+        "type": "poison",
+        "power": 65,
+        "category": "special",
+        "levelLearned": 37
+      },
+      {
+        "name": "pound",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "disable",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      },
+      {
+        "name": "screech",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 53
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 320,
+      "attack": 215,
+      "defense": 155,
+      "special": 135,
+      "speed": 105
+    }
+  },
+  {
+    "id": 90,
+    "name": "shellder",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "attack": 65,
+      "defense": 100,
+      "special": 45,
+      "speed": 40
+    },
+    "moves": [
+      {
+        "name": "ice-beam",
+        "type": "ice",
+        "power": 90,
+        "category": "special",
+        "levelLearned": 50
+      },
+      {
+        "name": "aurora-beam",
+        "type": "ice",
+        "power": 65,
+        "category": "special",
+        "levelLearned": 30
+      },
+      {
+        "name": "tackle",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 39
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 170,
+      "attack": 135,
+      "defense": 205,
+      "special": 95,
+      "speed": 85
+    }
+  },
+  {
+    "id": 91,
+    "name": "cloyster",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "attack": 95,
+      "defense": 180,
+      "special": 85,
+      "speed": 70
+    },
+    "moves": [
+      {
+        "name": "aurora-beam",
+        "type": "ice",
+        "power": 65,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "clamp",
+        "type": "water",
+        "power": 35,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "spike-cannon",
+        "type": "normal",
+        "power": 20,
+        "category": "physical",
+        "levelLearned": 50
+      },
+      {
+        "name": "supersonic",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 210,
+      "attack": 195,
+      "defense": 365,
+      "special": 175,
+      "speed": 145
+    }
+  },
+  {
+    "id": 92,
+    "name": "gastly",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "attack": 35,
+      "defense": 30,
+      "special": 100,
+      "speed": 80
+    },
+    "moves": [
+      {
+        "name": "dream-eater",
+        "type": "psychic",
+        "power": 100,
+        "category": "special",
+        "levelLearned": 35
+      },
+      {
+        "name": "lick",
+        "type": "ghost",
+        "power": 30,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "hypnosis",
+        "type": "psychic",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 27
+      },
+      {
+        "name": "night-shade",
+        "type": "ghost",
+        "power": 0,
+        "category": "special",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 170,
+      "attack": 75,
+      "defense": 65,
+      "special": 205,
+      "speed": 165
+    }
+  },
+  {
+    "id": 93,
+    "name": "haunter",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "attack": 50,
+      "defense": 45,
+      "special": 115,
+      "speed": 95
+    },
+    "moves": [
+      {
+        "name": "dream-eater",
+        "type": "psychic",
+        "power": 100,
+        "category": "special",
+        "levelLearned": 38
+      },
+      {
+        "name": "lick",
+        "type": "ghost",
+        "power": 30,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "hypnosis",
+        "type": "psychic",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 29
+      },
+      {
+        "name": "night-shade",
+        "type": "ghost",
+        "power": 0,
+        "category": "special",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 200,
+      "attack": 105,
+      "defense": 95,
+      "special": 235,
+      "speed": 195
+    }
+  },
+  {
+    "id": 94,
+    "name": "gengar",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "attack": 65,
+      "defense": 60,
+      "special": 130,
+      "speed": 110
+    },
+    "moves": [
+      {
+        "name": "dream-eater",
+        "type": "psychic",
+        "power": 100,
+        "category": "special",
+        "levelLearned": 38
+      },
+      {
+        "name": "lick",
+        "type": "ghost",
+        "power": 30,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "hypnosis",
+        "type": "psychic",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 29
+      },
+      {
+        "name": "night-shade",
+        "type": "ghost",
+        "power": 0,
+        "category": "special",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 230,
+      "attack": 135,
+      "defense": 125,
+      "special": 265,
+      "speed": 225
+    }
+  },
+  {
+    "id": 95,
+    "name": "onix",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "attack": 45,
+      "defense": 160,
+      "special": 30,
+      "speed": 70
+    },
+    "moves": [
+      {
+        "name": "slam",
+        "type": "normal",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 33
+      },
+      {
+        "name": "rock-throw",
+        "type": "rock",
+        "power": 50,
+        "category": "physical",
+        "levelLearned": 19
+      },
+      {
+        "name": "tackle",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "screech",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 180,
+      "attack": 95,
+      "defense": 325,
+      "special": 65,
+      "speed": 145
+    }
+  },
+  {
+    "id": 96,
+    "name": "drowzee",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "attack": 48,
+      "defense": 45,
+      "special": 43,
+      "speed": 42
+    },
+    "moves": [
+      {
+        "name": "psychic",
+        "type": "psychic",
+        "power": 90,
+        "category": "special",
+        "levelLearned": 32
+      },
+      {
+        "name": "headbutt",
+        "type": "normal",
+        "power": 70,
+        "category": "physical",
+        "levelLearned": 24
+      },
+      {
+        "name": "confusion",
+        "type": "psychic",
+        "power": 50,
+        "category": "special",
+        "levelLearned": 17
+      },
+      {
+        "name": "disable",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 12
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 230,
+      "attack": 101,
+      "defense": 95,
+      "special": 91,
+      "speed": 89
+    }
+  },
+  {
+    "id": 97,
+    "name": "hypno",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "attack": 73,
+      "defense": 70,
+      "special": 73,
+      "speed": 67
+    },
+    "moves": [
+      {
+        "name": "psychic",
+        "type": "psychic",
+        "power": 90,
+        "category": "special",
+        "levelLearned": 37
+      },
+      {
+        "name": "headbutt",
+        "type": "normal",
+        "power": 70,
+        "category": "physical",
+        "levelLearned": 24
+      },
+      {
+        "name": "confusion",
+        "type": "psychic",
+        "power": 50,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "disable",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 280,
+      "attack": 151,
+      "defense": 145,
+      "special": 151,
+      "speed": 139
+    }
+  },
+  {
+    "id": 98,
+    "name": "krabby",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "attack": 105,
+      "defense": 90,
+      "special": 25,
+      "speed": 50
+    },
+    "moves": [
+      {
+        "name": "crabhammer",
+        "type": "water",
+        "power": 100,
+        "category": "physical",
+        "levelLearned": 35
+      },
+      {
+        "name": "stomp",
+        "type": "normal",
+        "power": 65,
+        "category": "physical",
+        "levelLearned": 30
+      },
+      {
+        "name": "vice-grip",
+        "type": "normal",
+        "power": 55,
+        "category": "physical",
+        "levelLearned": 20
+      },
+      {
+        "name": "guillotine",
+        "type": "normal",
+        "power": 0,
+        "category": "physical",
+        "levelLearned": 25
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 170,
+      "attack": 215,
+      "defense": 185,
+      "special": 55,
+      "speed": 105
+    }
+  },
+  {
+    "id": 99,
+    "name": "kingler",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "attack": 130,
+      "defense": 115,
+      "special": 50,
+      "speed": 75
+    },
+    "moves": [
+      {
+        "name": "crabhammer",
+        "type": "water",
+        "power": 100,
+        "category": "physical",
+        "levelLearned": 42
+      },
+      {
+        "name": "stomp",
+        "type": "normal",
+        "power": 65,
+        "category": "physical",
+        "levelLearned": 34
+      },
+      {
+        "name": "vice-grip",
+        "type": "normal",
+        "power": 55,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "guillotine",
+        "type": "normal",
+        "power": 0,
+        "category": "physical",
+        "levelLearned": 25
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 220,
+      "attack": 265,
+      "defense": 235,
+      "special": 105,
+      "speed": 155
+    }
+  },
+  {
+    "id": 100,
+    "name": "voltorb",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "attack": 30,
+      "defense": 50,
+      "special": 55,
+      "speed": 100
+    },
+    "moves": [
+      {
+        "name": "explosion",
+        "type": "normal",
+        "power": 250,
+        "category": "physical",
+        "levelLearned": 43
+      },
+      {
+        "name": "self-destruct",
+        "type": "normal",
+        "power": 200,
+        "category": "physical",
+        "levelLearned": 22
+      },
+      {
+        "name": "swift",
+        "type": "normal",
+        "power": 60,
+        "category": "special",
+        "levelLearned": 36
+      },
+      {
+        "name": "sonic-boom",
+        "type": "normal",
+        "power": 0,
+        "category": "special",
+        "levelLearned": 17
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 190,
+      "attack": 65,
+      "defense": 105,
+      "special": 115,
+      "speed": 205
+    }
+  },
+  {
+    "id": 101,
+    "name": "electrode",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "attack": 50,
+      "defense": 70,
+      "special": 80,
+      "speed": 150
+    },
+    "moves": [
+      {
+        "name": "explosion",
+        "type": "normal",
+        "power": 250,
+        "category": "physical",
+        "levelLearned": 50
+      },
+      {
+        "name": "self-destruct",
+        "type": "normal",
+        "power": 200,
+        "category": "physical",
+        "levelLearned": 22
+      },
+      {
+        "name": "swift",
+        "type": "normal",
+        "power": 60,
+        "category": "special",
+        "levelLearned": 40
+      },
+      {
+        "name": "sonic-boom",
+        "type": "normal",
+        "power": 0,
+        "category": "special",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 230,
+      "attack": 105,
+      "defense": 145,
+      "special": 165,
+      "speed": 305
+    }
+  },
+  {
+    "id": 102,
+    "name": "exeggcute",
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "attack": 40,
+      "defense": 80,
+      "special": 60,
+      "speed": 40
+    },
+    "moves": [
+      {
+        "name": "solar-beam",
+        "type": "grass",
+        "power": 120,
+        "category": "special",
+        "levelLearned": 42
+      },
+      {
+        "name": "barrage",
+        "type": "normal",
+        "power": 15,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "leech-seed",
+        "type": "grass",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 28
+      },
+      {
+        "name": "poison-powder",
+        "type": "poison",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 37
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 230,
+      "attack": 85,
+      "defense": 165,
+      "special": 125,
+      "speed": 85
+    }
+  },
+  {
+    "id": 103,
+    "name": "exeggutor",
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "attack": 95,
+      "defense": 85,
+      "special": 125,
+      "speed": 55
+    },
+    "moves": [
+      {
+        "name": "stomp",
+        "type": "normal",
+        "power": 65,
+        "category": "physical",
+        "levelLearned": 28
+      },
+      {
+        "name": "barrage",
+        "type": "normal",
+        "power": 15,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "hypnosis",
+        "type": "psychic",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 300,
+      "attack": 195,
+      "defense": 175,
+      "special": 255,
+      "speed": 115
+    }
+  },
+  {
+    "id": 104,
+    "name": "cubone",
+    "types": [
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "attack": 50,
+      "defense": 95,
+      "special": 40,
+      "speed": 35
+    },
+    "moves": [
+      {
+        "name": "thrash",
+        "type": "normal",
+        "power": 120,
+        "category": "physical",
+        "levelLearned": 38
+      },
+      {
+        "name": "bone-club",
+        "type": "ground",
+        "power": 65,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "bonemerang",
+        "type": "ground",
+        "power": 50,
+        "category": "physical",
+        "levelLearned": 43
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 25
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 210,
+      "attack": 105,
+      "defense": 195,
+      "special": 85,
+      "speed": 75
+    }
+  },
+  {
+    "id": 105,
+    "name": "marowak",
+    "types": [
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "attack": 80,
+      "defense": 110,
+      "special": 50,
+      "speed": 45
+    },
+    "moves": [
+      {
+        "name": "thrash",
+        "type": "normal",
+        "power": 120,
+        "category": "physical",
+        "levelLearned": 41
+      },
+      {
+        "name": "bone-club",
+        "type": "ground",
+        "power": 65,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "bonemerang",
+        "type": "ground",
+        "power": 50,
+        "category": "physical",
+        "levelLearned": 48
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 230,
+      "attack": 165,
+      "defense": 225,
+      "special": 105,
+      "speed": 95
+    }
+  },
+  {
+    "id": 106,
+    "name": "hitmonlee",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "attack": 120,
+      "defense": 53,
+      "special": 35,
+      "speed": 87
+    },
+    "moves": [
+      {
+        "name": "high-jump-kick",
+        "type": "fighting",
+        "power": 130,
+        "category": "physical",
+        "levelLearned": 48
+      },
+      {
+        "name": "mega-kick",
+        "type": "normal",
+        "power": 120,
+        "category": "physical",
+        "levelLearned": 53
+      },
+      {
+        "name": "jump-kick",
+        "type": "fighting",
+        "power": 100,
+        "category": "physical",
+        "levelLearned": 38
+      },
+      {
+        "name": "meditate",
+        "type": "psychic",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 210,
+      "attack": 245,
+      "defense": 111,
+      "special": 75,
+      "speed": 179
+    }
+  },
+  {
+    "id": 107,
+    "name": "hitmonchan",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "attack": 105,
+      "defense": 79,
+      "special": 35,
+      "speed": 76
+    },
+    "moves": [
+      {
+        "name": "mega-punch",
+        "type": "normal",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 48
+      },
+      {
+        "name": "fire-punch",
+        "type": "fire",
+        "power": 75,
+        "category": "physical",
+        "levelLearned": 33
+      },
+      {
+        "name": "ice-punch",
+        "type": "ice",
+        "power": 75,
+        "category": "physical",
+        "levelLearned": 38
+      },
+      {
+        "name": "counter",
+        "type": "fighting",
+        "power": 0,
+        "category": "physical",
+        "levelLearned": 53
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 210,
+      "attack": 215,
+      "defense": 163,
+      "special": 75,
+      "speed": 157
+    }
+  },
+  {
+    "id": 108,
+    "name": "lickitung",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "attack": 55,
+      "defense": 75,
+      "special": 60,
+      "speed": 30
+    },
+    "moves": [
+      {
+        "name": "slam",
+        "type": "normal",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 31
+      },
+      {
+        "name": "stomp",
+        "type": "normal",
+        "power": 65,
+        "category": "physical",
+        "levelLearned": 7
+      },
+      {
+        "name": "wrap",
+        "type": "normal",
+        "power": 15,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "supersonic",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 290,
+      "attack": 115,
+      "defense": 155,
+      "special": 125,
+      "speed": 65
+    }
+  },
+  {
+    "id": 109,
+    "name": "koffing",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "attack": 65,
+      "defense": 95,
+      "special": 60,
+      "speed": 35
+    },
+    "moves": [
+      {
+        "name": "explosion",
+        "type": "normal",
+        "power": 250,
+        "category": "physical",
+        "levelLearned": 48
+      },
+      {
+        "name": "self-destruct",
+        "type": "normal",
+        "power": 200,
+        "category": "physical",
+        "levelLearned": 40
+      },
+      {
+        "name": "sludge",
+        "type": "poison",
+        "power": 65,
+        "category": "special",
+        "levelLearned": 32
+      },
+      {
+        "name": "smokescreen",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 37
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 190,
+      "attack": 135,
+      "defense": 195,
+      "special": 125,
+      "speed": 75
+    }
+  },
+  {
+    "id": 110,
+    "name": "weezing",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 120,
+      "special": 85,
+      "speed": 60
+    },
+    "moves": [
+      {
+        "name": "explosion",
+        "type": "normal",
+        "power": 250,
+        "category": "physical",
+        "levelLearned": 53
+      },
+      {
+        "name": "self-destruct",
+        "type": "normal",
+        "power": 200,
+        "category": "physical",
+        "levelLearned": 43
+      },
+      {
+        "name": "sludge",
+        "type": "poison",
+        "power": 65,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "smokescreen",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 39
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 240,
+      "attack": 185,
+      "defense": 245,
+      "special": 175,
+      "speed": 125
+    }
+  },
+  {
+    "id": 111,
+    "name": "rhyhorn",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "attack": 85,
+      "defense": 95,
+      "special": 30,
+      "speed": 25
+    },
+    "moves": [
+      {
+        "name": "take-down",
+        "type": "normal",
+        "power": 90,
+        "category": "physical",
+        "levelLearned": 55
+      },
+      {
+        "name": "stomp",
+        "type": "normal",
+        "power": 65,
+        "category": "physical",
+        "levelLearned": 30
+      },
+      {
+        "name": "horn-attack",
+        "type": "normal",
+        "power": 65,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "horn-drill",
+        "type": "normal",
+        "power": 0,
+        "category": "physical",
+        "levelLearned": 45
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 270,
+      "attack": 175,
+      "defense": 195,
+      "special": 65,
+      "speed": 55
+    }
+  },
+  {
+    "id": 112,
+    "name": "rhydon",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 105,
+      "attack": 130,
+      "defense": 120,
+      "special": 45,
+      "speed": 40
+    },
+    "moves": [
+      {
+        "name": "take-down",
+        "type": "normal",
+        "power": 90,
+        "category": "physical",
+        "levelLearned": 64
+      },
+      {
+        "name": "stomp",
+        "type": "normal",
+        "power": 65,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "horn-attack",
+        "type": "normal",
+        "power": 65,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "horn-drill",
+        "type": "normal",
+        "power": 0,
+        "category": "physical",
+        "levelLearned": 48
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 320,
+      "attack": 265,
+      "defense": 245,
+      "special": 95,
+      "speed": 85
+    }
+  },
+  {
+    "id": 113,
+    "name": "chansey",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 250,
+      "attack": 5,
+      "defense": 5,
+      "special": 35,
+      "speed": 50
+    },
+    "moves": [
+      {
+        "name": "double-edge",
+        "type": "normal",
+        "power": 120,
+        "category": "physical",
+        "levelLearned": 54
+      },
+      {
+        "name": "pound",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "double-slap",
+        "type": "normal",
+        "power": 15,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "growl",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 30
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 610,
+      "attack": 15,
+      "defense": 15,
+      "special": 75,
+      "speed": 105
+    }
+  },
+  {
+    "id": 114,
+    "name": "tangela",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "attack": 55,
+      "defense": 115,
+      "special": 100,
+      "speed": 60
+    },
+    "moves": [
+      {
+        "name": "slam",
+        "type": "normal",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 45
+      },
+      {
+        "name": "absorb",
+        "type": "grass",
+        "power": 20,
+        "category": "special",
+        "levelLearned": 29
+      },
+      {
+        "name": "bind",
+        "type": "normal",
+        "power": 15,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "growth",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 49
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 240,
+      "attack": 115,
+      "defense": 235,
+      "special": 205,
+      "speed": 125
+    }
+  },
+  {
+    "id": 115,
+    "name": "kangaskhan",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 105,
+      "attack": 95,
+      "defense": 80,
+      "special": 40,
+      "speed": 90
+    },
+    "moves": [
+      {
+        "name": "mega-punch",
+        "type": "normal",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 36
+      },
+      {
+        "name": "dizzy-punch",
+        "type": "normal",
+        "power": 70,
+        "category": "physical",
+        "levelLearned": 46
+      },
+      {
+        "name": "bite",
+        "type": "dark",
+        "power": 60,
+        "category": "physical",
+        "levelLearned": 26
+      },
+      {
+        "name": "tail-whip",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 31
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 320,
+      "attack": 195,
+      "defense": 165,
+      "special": 85,
+      "speed": 185
+    }
+  },
+  {
+    "id": 116,
+    "name": "horsea",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "attack": 40,
+      "defense": 70,
+      "special": 70,
+      "speed": 60
+    },
+    "moves": [
+      {
+        "name": "hydro-pump",
+        "type": "water",
+        "power": 110,
+        "category": "special",
+        "levelLearned": 45
+      },
+      {
+        "name": "water-gun",
+        "type": "water",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 30
+      },
+      {
+        "name": "bubble",
+        "type": "water",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 24
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 170,
+      "attack": 85,
+      "defense": 145,
+      "special": 145,
+      "speed": 125
+    }
+  },
+  {
+    "id": 117,
+    "name": "seadra",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "attack": 65,
+      "defense": 95,
+      "special": 95,
+      "speed": 85
+    },
+    "moves": [
+      {
+        "name": "hydro-pump",
+        "type": "water",
+        "power": 110,
+        "category": "special",
+        "levelLearned": 52
+      },
+      {
+        "name": "water-gun",
+        "type": "water",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 30
+      },
+      {
+        "name": "bubble",
+        "type": "water",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 24
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 220,
+      "attack": 135,
+      "defense": 195,
+      "special": 195,
+      "speed": 175
+    }
+  },
+  {
+    "id": 118,
+    "name": "goldeen",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "attack": 67,
+      "defense": 60,
+      "special": 35,
+      "speed": 63
+    },
+    "moves": [
+      {
+        "name": "waterfall",
+        "type": "water",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 37
+      },
+      {
+        "name": "horn-attack",
+        "type": "normal",
+        "power": 65,
+        "category": "physical",
+        "levelLearned": 24
+      },
+      {
+        "name": "peck",
+        "type": "flying",
+        "power": 35,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "horn-drill",
+        "type": "normal",
+        "power": 0,
+        "category": "physical",
+        "levelLearned": 45
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 200,
+      "attack": 139,
+      "defense": 125,
+      "special": 75,
+      "speed": 131
+    }
+  },
+  {
+    "id": 119,
+    "name": "seaking",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "attack": 92,
+      "defense": 65,
+      "special": 65,
+      "speed": 68
+    },
+    "moves": [
+      {
+        "name": "waterfall",
+        "type": "water",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 39
+      },
+      {
+        "name": "horn-attack",
+        "type": "normal",
+        "power": 65,
+        "category": "physical",
+        "levelLearned": 24
+      },
+      {
+        "name": "peck",
+        "type": "flying",
+        "power": 35,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "horn-drill",
+        "type": "normal",
+        "power": 0,
+        "category": "physical",
+        "levelLearned": 48
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 270,
+      "attack": 189,
+      "defense": 135,
+      "special": 135,
+      "speed": 141
+    }
+  },
+  {
+    "id": 120,
+    "name": "staryu",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "attack": 45,
+      "defense": 55,
+      "special": 70,
+      "speed": 85
+    },
+    "moves": [
+      {
+        "name": "hydro-pump",
+        "type": "water",
+        "power": 110,
+        "category": "special",
+        "levelLearned": 47
+      },
+      {
+        "name": "swift",
+        "type": "normal",
+        "power": 60,
+        "category": "special",
+        "levelLearned": 32
+      },
+      {
+        "name": "tackle",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "recover",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 27
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 170,
+      "attack": 95,
+      "defense": 115,
+      "special": 145,
+      "speed": 175
+    }
+  },
+  {
+    "id": 121,
+    "name": "starmie",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "attack": 75,
+      "defense": 85,
+      "special": 100,
+      "speed": 115
+    },
+    "moves": [
+      {
+        "name": "tackle",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "water-gun",
+        "type": "water",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "harden",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 230,
+      "attack": 155,
+      "defense": 175,
+      "special": 205,
+      "speed": 235
+    }
+  },
+  {
+    "id": 122,
+    "name": "mr-mime",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 65,
+      "special": 100,
+      "speed": 90
+    },
+    "moves": [
+      {
+        "name": "confusion",
+        "type": "psychic",
+        "power": 50,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "double-slap",
+        "type": "normal",
+        "power": 15,
+        "category": "physical",
+        "levelLearned": 31
+      },
+      {
+        "name": "meditate",
+        "type": "psychic",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 39
+      },
+      {
+        "name": "barrier",
+        "type": "psychic",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 190,
+      "attack": 95,
+      "defense": 135,
+      "special": 205,
+      "speed": 185
+    }
+  },
+  {
+    "id": 123,
+    "name": "scyther",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "attack": 110,
+      "defense": 80,
+      "special": 55,
+      "speed": 105
+    },
+    "moves": [
+      {
+        "name": "slash",
+        "type": "normal",
+        "power": 70,
+        "category": "physical",
+        "levelLearned": 29
+      },
+      {
+        "name": "quick-attack",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "swords-dance",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 35
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 17
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 250,
+      "attack": 225,
+      "defense": 165,
+      "special": 115,
+      "speed": 215
+    }
+  },
+  {
+    "id": 124,
+    "name": "jynx",
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "attack": 50,
+      "defense": 35,
+      "special": 115,
+      "speed": 95
+    },
+    "moves": [
+      {
+        "name": "thrash",
+        "type": "normal",
+        "power": 120,
+        "category": "physical",
+        "levelLearned": 47
+      },
+      {
+        "name": "blizzard",
+        "type": "ice",
+        "power": 110,
+        "category": "special",
+        "levelLearned": 58
+      },
+      {
+        "name": "body-slam",
+        "type": "normal",
+        "power": 85,
+        "category": "physical",
+        "levelLearned": 39
+      },
+      {
+        "name": "lovely-kiss",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 240,
+      "attack": 105,
+      "defense": 75,
+      "special": 235,
+      "speed": 195
+    }
+  },
+  {
+    "id": 125,
+    "name": "electabuzz",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "attack": 83,
+      "defense": 57,
+      "special": 95,
+      "speed": 105
+    },
+    "moves": [
+      {
+        "name": "thunder",
+        "type": "electric",
+        "power": 110,
+        "category": "special",
+        "levelLearned": 54
+      },
+      {
+        "name": "thunder-punch",
+        "type": "electric",
+        "power": 75,
+        "category": "physical",
+        "levelLearned": 42
+      },
+      {
+        "name": "thunder-shock",
+        "type": "electric",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 34
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 240,
+      "attack": 171,
+      "defense": 119,
+      "special": 195,
+      "speed": 215
+    }
+  },
+  {
+    "id": 126,
+    "name": "magmar",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "attack": 95,
+      "defense": 57,
+      "special": 100,
+      "speed": 93
+    },
+    "moves": [
+      {
+        "name": "flamethrower",
+        "type": "fire",
+        "power": 90,
+        "category": "special",
+        "levelLearned": 55
+      },
+      {
+        "name": "fire-punch",
+        "type": "fire",
+        "power": 75,
+        "category": "physical",
+        "levelLearned": 43
+      },
+      {
+        "name": "ember",
+        "type": "fire",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 36
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 240,
+      "attack": 195,
+      "defense": 119,
+      "special": 205,
+      "speed": 191
+    }
+  },
+  {
+    "id": 127,
+    "name": "pinsir",
+    "types": [
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "attack": 125,
+      "defense": 100,
+      "special": 55,
+      "speed": 85
+    },
+    "moves": [
+      {
+        "name": "slash",
+        "type": "normal",
+        "power": 70,
+        "category": "physical",
+        "levelLearned": 49
+      },
+      {
+        "name": "vice-grip",
+        "type": "normal",
+        "power": 55,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "guillotine",
+        "type": "normal",
+        "power": 0,
+        "category": "physical",
+        "levelLearned": 30
+      },
+      {
+        "name": "swords-dance",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 54
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 240,
+      "attack": 255,
+      "defense": 205,
+      "special": 115,
+      "speed": 175
+    }
+  },
+  {
+    "id": 128,
+    "name": "tauros",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "attack": 100,
+      "defense": 95,
+      "special": 40,
+      "speed": 110
+    },
+    "moves": [
+      {
+        "name": "take-down",
+        "type": "normal",
+        "power": 90,
+        "category": "physical",
+        "levelLearned": 51
+      },
+      {
+        "name": "stomp",
+        "type": "normal",
+        "power": 65,
+        "category": "physical",
+        "levelLearned": 21
+      },
+      {
+        "name": "tackle",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "tail-whip",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 28
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 260,
+      "attack": 205,
+      "defense": 195,
+      "special": 85,
+      "speed": 225
+    }
+  },
+  {
+    "id": 129,
+    "name": "magikarp",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 20,
+      "attack": 10,
+      "defense": 55,
+      "special": 15,
+      "speed": 80
+    },
+    "moves": [
+      {
+        "name": "tackle",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 15
+      },
+      {
+        "name": "splash",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 150,
+      "attack": 25,
+      "defense": 115,
+      "special": 35,
+      "speed": 165
+    }
+  },
+  {
+    "id": 130,
+    "name": "gyarados",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "attack": 125,
+      "defense": 79,
+      "special": 60,
+      "speed": 81
+    },
+    "moves": [
+      {
+        "name": "hyper-beam",
+        "type": "normal",
+        "power": 150,
+        "category": "special",
+        "levelLearned": 52
+      },
+      {
+        "name": "hydro-pump",
+        "type": "water",
+        "power": 110,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "bite",
+        "type": "dark",
+        "power": 60,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 300,
+      "attack": 255,
+      "defense": 163,
+      "special": 125,
+      "speed": 167
+    }
+  },
+  {
+    "id": 131,
+    "name": "lapras",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "baseStats": {
+      "hp": 130,
+      "attack": 85,
+      "defense": 80,
+      "special": 85,
+      "speed": 60
+    },
+    "moves": [
+      {
+        "name": "hydro-pump",
+        "type": "water",
+        "power": 110,
+        "category": "special",
+        "levelLearned": 46
+      },
+      {
+        "name": "ice-beam",
+        "type": "ice",
+        "power": 90,
+        "category": "special",
+        "levelLearned": 38
+      },
+      {
+        "name": "body-slam",
+        "type": "normal",
+        "power": 85,
+        "category": "physical",
+        "levelLearned": 25
+      },
+      {
+        "name": "growl",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 370,
+      "attack": 175,
+      "defense": 165,
+      "special": 175,
+      "speed": 125
+    }
+  },
+  {
+    "id": 132,
+    "name": "ditto",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 48,
+      "attack": 48,
+      "defense": 48,
+      "special": 48,
+      "speed": 48
+    },
+    "moves": [
+      {
+        "name": "transform",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 206,
+      "attack": 101,
+      "defense": 101,
+      "special": 101,
+      "speed": 101
+    }
+  },
+  {
+    "id": 133,
+    "name": "eevee",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "attack": 55,
+      "defense": 50,
+      "special": 45,
+      "speed": 55
+    },
+    "moves": [
+      {
+        "name": "take-down",
+        "type": "normal",
+        "power": 90,
+        "category": "physical",
+        "levelLearned": 45
+      },
+      {
+        "name": "bite",
+        "type": "dark",
+        "power": 60,
+        "category": "physical",
+        "levelLearned": 37
+      },
+      {
+        "name": "tackle",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "sand-attack",
+        "type": "ground",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 220,
+      "attack": 115,
+      "defense": 105,
+      "special": 95,
+      "speed": 115
+    }
+  },
+  {
+    "id": 134,
+    "name": "vaporeon",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 130,
+      "attack": 65,
+      "defense": 60,
+      "special": 110,
+      "speed": 65
+    },
+    "moves": [
+      {
+        "name": "hydro-pump",
+        "type": "water",
+        "power": 110,
+        "category": "special",
+        "levelLearned": 54
+      },
+      {
+        "name": "bite",
+        "type": "dark",
+        "power": 60,
+        "category": "physical",
+        "levelLearned": 40
+      },
+      {
+        "name": "tackle",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "sand-attack",
+        "type": "ground",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 370,
+      "attack": 135,
+      "defense": 125,
+      "special": 225,
+      "speed": 135
+    }
+  },
+  {
+    "id": 135,
+    "name": "jolteon",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "attack": 65,
+      "defense": 60,
+      "special": 110,
+      "speed": 130
+    },
+    "moves": [
+      {
+        "name": "thunder",
+        "type": "electric",
+        "power": 110,
+        "category": "special",
+        "levelLearned": 54
+      },
+      {
+        "name": "tackle",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "thunder-shock",
+        "type": "electric",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "sand-attack",
+        "type": "ground",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 240,
+      "attack": 135,
+      "defense": 125,
+      "special": 225,
+      "speed": 265
+    }
+  },
+  {
+    "id": 136,
+    "name": "flareon",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "attack": 130,
+      "defense": 60,
+      "special": 95,
+      "speed": 65
+    },
+    "moves": [
+      {
+        "name": "flamethrower",
+        "type": "fire",
+        "power": 90,
+        "category": "special",
+        "levelLearned": 54
+      },
+      {
+        "name": "bite",
+        "type": "dark",
+        "power": 60,
+        "category": "physical",
+        "levelLearned": 40
+      },
+      {
+        "name": "tackle",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "sand-attack",
+        "type": "ground",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 240,
+      "attack": 265,
+      "defense": 125,
+      "special": 195,
+      "speed": 135
+    }
+  },
+  {
+    "id": 137,
+    "name": "porygon",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "attack": 60,
+      "defense": 70,
+      "special": 85,
+      "speed": 40
+    },
+    "moves": [
+      {
+        "name": "tri-attack",
+        "type": "normal",
+        "power": 80,
+        "category": "special",
+        "levelLearned": 42
+      },
+      {
+        "name": "psybeam",
+        "type": "psychic",
+        "power": 65,
+        "category": "special",
+        "levelLearned": 23
+      },
+      {
+        "name": "tackle",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "agility",
+        "type": "psychic",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 35
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 240,
+      "attack": 125,
+      "defense": 145,
+      "special": 175,
+      "speed": 85
+    }
+  },
+  {
+    "id": 138,
+    "name": "omanyte",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "attack": 40,
+      "defense": 100,
+      "special": 90,
+      "speed": 35
+    },
+    "moves": [
+      {
+        "name": "hydro-pump",
+        "type": "water",
+        "power": 110,
+        "category": "special",
+        "levelLearned": 53
+      },
+      {
+        "name": "horn-attack",
+        "type": "normal",
+        "power": 65,
+        "category": "physical",
+        "levelLearned": 34
+      },
+      {
+        "name": "water-gun",
+        "type": "water",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 39
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 180,
+      "attack": 85,
+      "defense": 205,
+      "special": 185,
+      "speed": 75
+    }
+  },
+  {
+    "id": 139,
+    "name": "omastar",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "attack": 60,
+      "defense": 125,
+      "special": 115,
+      "speed": 55
+    },
+    "moves": [
+      {
+        "name": "hydro-pump",
+        "type": "water",
+        "power": 110,
+        "category": "special",
+        "levelLearned": 49
+      },
+      {
+        "name": "horn-attack",
+        "type": "normal",
+        "power": 65,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "water-gun",
+        "type": "water",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 39
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 250,
+      "attack": 125,
+      "defense": 255,
+      "special": 235,
+      "speed": 115
+    }
+  },
+  {
+    "id": 140,
+    "name": "kabuto",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "attack": 80,
+      "defense": 90,
+      "special": 55,
+      "speed": 55
+    },
+    "moves": [
+      {
+        "name": "hydro-pump",
+        "type": "water",
+        "power": 110,
+        "category": "special",
+        "levelLearned": 49
+      },
+      {
+        "name": "slash",
+        "type": "normal",
+        "power": 70,
+        "category": "physical",
+        "levelLearned": 39
+      },
+      {
+        "name": "scratch",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 44
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 170,
+      "attack": 165,
+      "defense": 185,
+      "special": 115,
+      "speed": 115
+    }
+  },
+  {
+    "id": 141,
+    "name": "kabutops",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "attack": 115,
+      "defense": 105,
+      "special": 65,
+      "speed": 80
+    },
+    "moves": [
+      {
+        "name": "hydro-pump",
+        "type": "water",
+        "power": 110,
+        "category": "special",
+        "levelLearned": 53
+      },
+      {
+        "name": "slash",
+        "type": "normal",
+        "power": 70,
+        "category": "physical",
+        "levelLearned": 39
+      },
+      {
+        "name": "scratch",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 46
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 230,
+      "attack": 235,
+      "defense": 215,
+      "special": 135,
+      "speed": 165
+    }
+  },
+  {
+    "id": 142,
+    "name": "aerodactyl",
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "attack": 105,
+      "defense": 65,
+      "special": 60,
+      "speed": 130
+    },
+    "moves": [
+      {
+        "name": "hyper-beam",
+        "type": "normal",
+        "power": 150,
+        "category": "special",
+        "levelLearned": 54
+      },
+      {
+        "name": "take-down",
+        "type": "normal",
+        "power": 90,
+        "category": "physical",
+        "levelLearned": 45
+      },
+      {
+        "name": "wing-attack",
+        "type": "flying",
+        "power": 60,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "supersonic",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 33
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 270,
+      "attack": 215,
+      "defense": 135,
+      "special": 125,
+      "speed": 265
+    }
+  },
+  {
+    "id": 143,
+    "name": "snorlax",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 160,
+      "attack": 110,
+      "defense": 65,
+      "special": 65,
+      "speed": 30
+    },
+    "moves": [
+      {
+        "name": "hyper-beam",
+        "type": "normal",
+        "power": 150,
+        "category": "special",
+        "levelLearned": 56
+      },
+      {
+        "name": "double-edge",
+        "type": "normal",
+        "power": 120,
+        "category": "physical",
+        "levelLearned": 48
+      },
+      {
+        "name": "body-slam",
+        "type": "normal",
+        "power": 85,
+        "category": "physical",
+        "levelLearned": 35
+      },
+      {
+        "name": "harden",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 41
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 430,
+      "attack": 225,
+      "defense": 135,
+      "special": 135,
+      "speed": 65
+    }
+  },
+  {
+    "id": 144,
+    "name": "articuno",
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "attack": 85,
+      "defense": 100,
+      "special": 95,
+      "speed": 85
+    },
+    "moves": [
+      {
+        "name": "blizzard",
+        "type": "ice",
+        "power": 110,
+        "category": "special",
+        "levelLearned": 51
+      },
+      {
+        "name": "ice-beam",
+        "type": "ice",
+        "power": 90,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "peck",
+        "type": "flying",
+        "power": 35,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "mist",
+        "type": "ice",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 60
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 290,
+      "attack": 175,
+      "defense": 205,
+      "special": 195,
+      "speed": 175
+    }
+  },
+  {
+    "id": 145,
+    "name": "zapdos",
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "attack": 90,
+      "defense": 85,
+      "special": 125,
+      "speed": 100
+    },
+    "moves": [
+      {
+        "name": "thunder",
+        "type": "electric",
+        "power": 110,
+        "category": "special",
+        "levelLearned": 51
+      },
+      {
+        "name": "drill-peck",
+        "type": "flying",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "thunder-shock",
+        "type": "electric",
+        "power": 40,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "agility",
+        "type": "psychic",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 55
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 290,
+      "attack": 185,
+      "defense": 175,
+      "special": 255,
+      "speed": 205
+    }
+  },
+  {
+    "id": 146,
+    "name": "moltres",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "attack": 100,
+      "defense": 90,
+      "special": 125,
+      "speed": 90
+    },
+    "moves": [
+      {
+        "name": "sky-attack",
+        "type": "flying",
+        "power": 140,
+        "category": "physical",
+        "levelLearned": 60
+      },
+      {
+        "name": "peck",
+        "type": "flying",
+        "power": 35,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "fire-spin",
+        "type": "fire",
+        "power": 35,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 51
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 290,
+      "attack": 205,
+      "defense": 185,
+      "special": 255,
+      "speed": 185
+    }
+  },
+  {
+    "id": 147,
+    "name": "dratini",
+    "types": [
+      "dragon"
+    ],
+    "baseStats": {
+      "hp": 41,
+      "attack": 64,
+      "defense": 45,
+      "special": 50,
+      "speed": 50
+    },
+    "moves": [
+      {
+        "name": "hyper-beam",
+        "type": "normal",
+        "power": 150,
+        "category": "special",
+        "levelLearned": 50
+      },
+      {
+        "name": "slam",
+        "type": "normal",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 30
+      },
+      {
+        "name": "wrap",
+        "type": "normal",
+        "power": 15,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 192,
+      "attack": 133,
+      "defense": 95,
+      "special": 105,
+      "speed": 105
+    }
+  },
+  {
+    "id": 148,
+    "name": "dragonair",
+    "types": [
+      "dragon"
+    ],
+    "baseStats": {
+      "hp": 61,
+      "attack": 84,
+      "defense": 65,
+      "special": 70,
+      "speed": 70
+    },
+    "moves": [
+      {
+        "name": "hyper-beam",
+        "type": "normal",
+        "power": 150,
+        "category": "special",
+        "levelLearned": 55
+      },
+      {
+        "name": "slam",
+        "type": "normal",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 35
+      },
+      {
+        "name": "wrap",
+        "type": "normal",
+        "power": 15,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 232,
+      "attack": 173,
+      "defense": 135,
+      "special": 145,
+      "speed": 145
+    }
+  },
+  {
+    "id": 149,
+    "name": "dragonite",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 91,
+      "attack": 134,
+      "defense": 95,
+      "special": 100,
+      "speed": 80
+    },
+    "moves": [
+      {
+        "name": "hyper-beam",
+        "type": "normal",
+        "power": 150,
+        "category": "special",
+        "levelLearned": 60
+      },
+      {
+        "name": "slam",
+        "type": "normal",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 35
+      },
+      {
+        "name": "wrap",
+        "type": "normal",
+        "power": 15,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "leer",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 292,
+      "attack": 273,
+      "defense": 195,
+      "special": 205,
+      "speed": 165
+    }
+  },
+  {
+    "id": 150,
+    "name": "mewtwo",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 106,
+      "attack": 110,
+      "defense": 90,
+      "special": 154,
+      "speed": 130
+    },
+    "moves": [
+      {
+        "name": "psychic",
+        "type": "psychic",
+        "power": 90,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "swift",
+        "type": "normal",
+        "power": 60,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "confusion",
+        "type": "psychic",
+        "power": 50,
+        "category": "special",
+        "levelLearned": 1
+      },
+      {
+        "name": "disable",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 1
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 322,
+      "attack": 225,
+      "defense": 185,
+      "special": 313,
+      "speed": 265
+    }
+  },
+  {
+    "id": 151,
+    "name": "mew",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "attack": 100,
+      "defense": 100,
+      "special": 100,
+      "speed": 100
+    },
+    "moves": [
+      {
+        "name": "psychic",
+        "type": "psychic",
+        "power": 90,
+        "category": "special",
+        "levelLearned": 40
+      },
+      {
+        "name": "mega-punch",
+        "type": "normal",
+        "power": 80,
+        "category": "physical",
+        "levelLearned": 20
+      },
+      {
+        "name": "pound",
+        "type": "normal",
+        "power": 40,
+        "category": "physical",
+        "levelLearned": 1
+      },
+      {
+        "name": "metronome",
+        "type": "normal",
+        "power": 0,
+        "category": "status",
+        "levelLearned": 30
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 310,
+      "attack": 205,
+      "defense": 205,
+      "special": 205,
+      "speed": 205
     }
   }
 ]
