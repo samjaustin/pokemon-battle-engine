@@ -1,0 +1,426 @@
+[
+  {
+    "gen1Id": 0,
+    "apiId": 1,
+    "name": "normal",
+    "damageRelations": {
+      "doubleDamageTo": [],
+      "halfDamageTo": [
+        "rock"
+      ],
+      "noDamageTo": [
+        "ghost"
+      ],
+      "doubleDamageFrom": [
+        "fighting"
+      ],
+      "halfDamageFrom": [],
+      "noDamageFrom": [
+        "ghost"
+      ]
+    }
+  },
+  {
+    "gen1Id": 1,
+    "apiId": 2,
+    "name": "fighting",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "normal",
+        "rock",
+        "ice"
+      ],
+      "halfDamageTo": [
+        "flying",
+        "poison",
+        "bug",
+        "psychic"
+      ],
+      "noDamageTo": [
+        "ghost"
+      ],
+      "doubleDamageFrom": [
+        "flying",
+        "psychic"
+      ],
+      "halfDamageFrom": [
+        "rock",
+        "bug"
+      ],
+      "noDamageFrom": []
+    }
+  },
+  {
+    "gen1Id": 2,
+    "apiId": 3,
+    "name": "flying",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "fighting",
+        "bug",
+        "grass"
+      ],
+      "halfDamageTo": [
+        "rock",
+        "electric"
+      ],
+      "noDamageTo": [],
+      "doubleDamageFrom": [
+        "rock",
+        "electric",
+        "ice"
+      ],
+      "halfDamageFrom": [
+        "fighting",
+        "bug",
+        "grass"
+      ],
+      "noDamageFrom": [
+        "ground"
+      ]
+    }
+  },
+  {
+    "gen1Id": 3,
+    "apiId": 4,
+    "name": "poison",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "grass"
+      ],
+      "halfDamageTo": [
+        "poison",
+        "ground",
+        "rock",
+        "ghost"
+      ],
+      "noDamageTo": [],
+      "doubleDamageFrom": [
+        "ground",
+        "psychic"
+      ],
+      "halfDamageFrom": [
+        "fighting",
+        "poison",
+        "bug",
+        "grass"
+      ],
+      "noDamageFrom": []
+    }
+  },
+  {
+    "gen1Id": 4,
+    "apiId": 5,
+    "name": "ground",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "poison",
+        "rock",
+        "fire",
+        "electric"
+      ],
+      "halfDamageTo": [
+        "bug",
+        "grass"
+      ],
+      "noDamageTo": [
+        "flying"
+      ],
+      "doubleDamageFrom": [
+        "water",
+        "grass",
+        "ice"
+      ],
+      "halfDamageFrom": [
+        "poison",
+        "rock"
+      ],
+      "noDamageFrom": [
+        "electric"
+      ]
+    }
+  },
+  {
+    "gen1Id": 5,
+    "apiId": 6,
+    "name": "rock",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "flying",
+        "bug",
+        "fire",
+        "ice"
+      ],
+      "halfDamageTo": [
+        "fighting",
+        "ground"
+      ],
+      "noDamageTo": [],
+      "doubleDamageFrom": [
+        "fighting",
+        "ground",
+        "water",
+        "grass"
+      ],
+      "halfDamageFrom": [
+        "normal",
+        "flying",
+        "poison",
+        "fire"
+      ],
+      "noDamageFrom": []
+    }
+  },
+  {
+    "gen1Id": 7,
+    "apiId": 7,
+    "name": "bug",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "grass",
+        "psychic"
+      ],
+      "halfDamageTo": [
+        "fighting",
+        "flying",
+        "poison",
+        "ghost",
+        "fire"
+      ],
+      "noDamageTo": [],
+      "doubleDamageFrom": [
+        "flying",
+        "rock",
+        "fire"
+      ],
+      "halfDamageFrom": [
+        "fighting",
+        "ground",
+        "grass"
+      ],
+      "noDamageFrom": []
+    }
+  },
+  {
+    "gen1Id": 8,
+    "apiId": 8,
+    "name": "ghost",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "ghost",
+        "psychic"
+      ],
+      "halfDamageTo": [],
+      "noDamageTo": [
+        "normal"
+      ],
+      "doubleDamageFrom": [
+        "ghost"
+      ],
+      "halfDamageFrom": [
+        "poison",
+        "bug"
+      ],
+      "noDamageFrom": [
+        "normal",
+        "fighting"
+      ]
+    }
+  },
+  {
+    "gen1Id": 20,
+    "apiId": 10,
+    "name": "fire",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "bug",
+        "grass",
+        "ice"
+      ],
+      "halfDamageTo": [
+        "rock",
+        "fire",
+        "water",
+        "dragon"
+      ],
+      "noDamageTo": [],
+      "doubleDamageFrom": [
+        "ground",
+        "rock",
+        "water"
+      ],
+      "halfDamageFrom": [
+        "bug",
+        "fire",
+        "grass",
+        "ice"
+      ],
+      "noDamageFrom": []
+    }
+  },
+  {
+    "gen1Id": 21,
+    "apiId": 11,
+    "name": "water",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "ground",
+        "rock",
+        "fire"
+      ],
+      "halfDamageTo": [
+        "water",
+        "grass",
+        "dragon"
+      ],
+      "noDamageTo": [],
+      "doubleDamageFrom": [
+        "grass",
+        "electric"
+      ],
+      "halfDamageFrom": [
+        "fire",
+        "water",
+        "ice"
+      ],
+      "noDamageFrom": []
+    }
+  },
+  {
+    "gen1Id": 22,
+    "apiId": 12,
+    "name": "grass",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "ground",
+        "rock",
+        "water"
+      ],
+      "halfDamageTo": [
+        "flying",
+        "poison",
+        "bug",
+        "fire",
+        "grass",
+        "dragon"
+      ],
+      "noDamageTo": [],
+      "doubleDamageFrom": [
+        "flying",
+        "poison",
+        "bug",
+        "fire",
+        "ice"
+      ],
+      "halfDamageFrom": [
+        "ground",
+        "water",
+        "grass",
+        "electric"
+      ],
+      "noDamageFrom": []
+    }
+  },
+  {
+    "gen1Id": 23,
+    "apiId": 13,
+    "name": "electric",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "flying",
+        "water"
+      ],
+      "halfDamageTo": [
+        "grass",
+        "electric",
+        "dragon"
+      ],
+      "noDamageTo": [
+        "ground"
+      ],
+      "doubleDamageFrom": [
+        "ground"
+      ],
+      "halfDamageFrom": [
+        "flying",
+        "electric"
+      ],
+      "noDamageFrom": []
+    }
+  },
+  {
+    "gen1Id": 24,
+    "apiId": 14,
+    "name": "psychic",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "fighting",
+        "poison"
+      ],
+      "halfDamageTo": [
+        "psychic"
+      ],
+      "noDamageTo": [],
+      "doubleDamageFrom": [
+        "bug",
+        "ghost"
+      ],
+      "halfDamageFrom": [
+        "fighting",
+        "psychic"
+      ],
+      "noDamageFrom": []
+    }
+  },
+  {
+    "gen1Id": 25,
+    "apiId": 15,
+    "name": "ice",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "flying",
+        "ground",
+        "grass",
+        "dragon"
+      ],
+      "halfDamageTo": [
+        "fire",
+        "water",
+        "ice"
+      ],
+      "noDamageTo": [],
+      "doubleDamageFrom": [
+        "fighting",
+        "rock",
+        "fire"
+      ],
+      "halfDamageFrom": [
+        "ice"
+      ],
+      "noDamageFrom": []
+    }
+  },
+  {
+    "gen1Id": 26,
+    "apiId": 16,
+    "name": "dragon",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "dragon"
+      ],
+      "halfDamageTo": [],
+      "noDamageTo": [],
+      "doubleDamageFrom": [
+        "ice",
+        "dragon"
+      ],
+      "halfDamageFrom": [
+        "fire",
+        "water",
+        "grass",
+        "electric"
+      ],
+      "noDamageFrom": []
+    }
+  }
+]

@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "name": "bulbasaur",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "attack": 49,
+      "defense": 49,
+      "special": 65,
+      "speed": 45
+    },
+    "moves": [
+      {
+        "name": "solar-beam",
+        "type": "grass",
+        "power": 120,
+        "category": "special"
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 200,
+      "attack": 103,
+      "defense": 103,
+      "special": 135,
+      "speed": 95
+    }
+  },
+  {
+    "id": 2,
+    "name": "ivysaur",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "attack": 62,
+      "defense": 63,
+      "special": 80,
+      "speed": 60
+    },
+    "moves": [
+      {
+        "name": "solar-beam",
+        "type": "grass",
+        "power": 120,
+        "category": "special"
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 230,
+      "attack": 129,
+      "defense": 131,
+      "special": 165,
+      "speed": 125
+    }
+  },
+  {
+    "id": 3,
+    "name": "venusaur",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "attack": 82,
+      "defense": 83,
+      "special": 100,
+      "speed": 80
+    },
+    "moves": [
+      {
+        "name": "solar-beam",
+        "type": "grass",
+        "power": 120,
+        "category": "special"
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 270,
+      "attack": 169,
+      "defense": 171,
+      "special": 205,
+      "speed": 165
+    }
+  },
+  {
+    "id": 4,
+    "name": "charmander",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 39,
+      "attack": 52,
+      "defense": 43,
+      "special": 60,
+      "speed": 65
+    },
+    "moves": [
+      {
+        "name": "flamethrower",
+        "type": "fire",
+        "power": 95,
+        "category": "special"
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 188,
+      "attack": 109,
+      "defense": 91,
+      "special": 125,
+      "speed": 135
+    }
+  },
+  {
+    "id": 5,
+    "name": "charmeleon",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 58,
+      "attack": 64,
+      "defense": 58,
+      "special": 80,
+      "speed": 80
+    },
+    "moves": [
+      {
+        "name": "flamethrower",
+        "type": "fire",
+        "power": 95,
+        "category": "special"
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 226,
+      "attack": 133,
+      "defense": 121,
+      "special": 165,
+      "speed": 165
+    }
+  },
+  {
+    "id": 6,
+    "name": "charizard",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 78,
+      "attack": 84,
+      "defense": 78,
+      "special": 109,
+      "speed": 100
+    },
+    "moves": [
+      {
+        "name": "flamethrower",
+        "type": "fire",
+        "power": 95,
+        "category": "special"
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 266,
+      "attack": 173,
+      "defense": 161,
+      "special": 223,
+      "speed": 205
+    }
+  },
+  {
+    "id": 7,
+    "name": "squirtle",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 44,
+      "attack": 48,
+      "defense": 65,
+      "special": 50,
+      "speed": 43
+    },
+    "moves": [
+      {
+        "name": "hydro-pump",
+        "type": "water",
+        "power": 120,
+        "category": "special"
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 198,
+      "attack": 101,
+      "defense": 135,
+      "special": 105,
+      "speed": 91
+    }
+  },
+  {
+    "id": 8,
+    "name": "wartortle",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 59,
+      "attack": 63,
+      "defense": 80,
+      "special": 65,
+      "speed": 58
+    },
+    "moves": [
+      {
+        "name": "hydro-pump",
+        "type": "water",
+        "power": 120,
+        "category": "special"
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 228,
+      "attack": 131,
+      "defense": 165,
+      "special": 135,
+      "speed": 121
+    }
+  },
+  {
+    "id": 9,
+    "name": "blastoise",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 79,
+      "attack": 83,
+      "defense": 100,
+      "special": 85,
+      "speed": 78
+    },
+    "moves": [
+      {
+        "name": "hydro-pump",
+        "type": "water",
+        "power": 120,
+        "category": "special"
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 268,
+      "attack": 171,
+      "defense": 205,
+      "special": 175,
+      "speed": 161
+    }
+  },
+  {
+    "id": 10,
+    "name": "caterpie",
+    "types": [
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "attack": 30,
+      "defense": 35,
+      "special": 20,
+      "speed": 45
+    },
+    "moves": [
+      {
+        "name": "tackle",
+        "type": "normal",
+        "power": 35,
+        "category": "physical"
+      }
+    ],
+    "level": 100,
+    "currentLevelStats": {
+      "hp": 200,
+      "attack": 65,
+      "defense": 75,
+      "special": 45,
+      "speed": 95
+    }
+  }
+]
