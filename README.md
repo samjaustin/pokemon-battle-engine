@@ -1,8 +1,8 @@
 # Pokemon Gen 1 Battle Engine
 
-A comprehensive battle simulation engine for Generation 1 Pokemon (Red/Blue/Yellow), featuring accurate damage calculation, type effectiveness, and a full round-robin tournament system.
+A comprehensive battle simulation engine for Generation 1 Pokemon (Red/Blue/Yellow), featuring authentic damage calculation, type effectiveness, and a full round-robin tournament system to determine the strongest Pokemon.
 
-![Tournament Results](docs/tournament-results.png)
+![Tournament Preview](docs/preview.gif)
 
 ## Features
 
@@ -11,10 +11,45 @@ A comprehensive battle simulation engine for Generation 1 Pokemon (Red/Blue/Yell
   - Physical/Special split based on move type (not individual moves)
   - Single Special stat (before Special Attack/Defense split)
   - Original type chart (no Dark/Steel/Fairy types)
-- **Smart Move Selection**: Each Pokemon gets their top 3 damaging level-up moves + 1 status move
+- **Strongest Move Priority**: Each Pokemon uses their highest-power damaging move
 - **Round-Robin Tournament**: Simulates all 11,325 unique matchups
 - **Live Battle Visualization**: Real-time progress tracking with ANSI colors
 - **Detailed Rankings**: Win rates, scores, and performance metrics
+
+## Current Version (v1.0)
+
+This release focuses on **determining the strongest Pokemon** through raw statistical comparison. Each Pokemon enters battle with their optimal moveset and uses their strongest attack every turn.
+
+### Battle Mechanism
+
+```
+Pokemon A (Attacker)          Pokemon B (Defender)
+      ↓                                ↓
+Select strongest damaging    Receive damage
+move from moveset            (type effectiveness applied)
+      ↓                                ↓
+Deal damage                  Retaliate with strongest move
+(STAB + type multiplier)     
+      ↓                                ↓
+Repeat until faint           Winner determined by stats
+```
+
+**Key Points:**
+- Each Pokemon gets their **top 3 damaging moves + 1 status move** from their learnset
+- In battle, Pokemon always use their **strongest damaging move** (highest base power)
+- No move switching or AI strategy - pure power comparison
+- Best for: Rankings, power analysis, type matchup research
+
+### What's Next (v2.0+)
+
+- **Move Selection AI**: Pokemon choose moves based on type advantages
+- **Status Effects**: Poison, burn, paralysis, sleep mechanics
+- **Switching**: Mid-battle Pokemon switching
+- **Critical Hits**: 1/16 chance with 2x damage
+- **Accuracy/Evasion**: Moves can miss
+- **Stat Modifiers**: Swords Dance, Growl, etc.
+
+> ⚡ **This is v1.0** - focused on raw power rankings. Smart battle AI coming in future updates!
 
 ## Gen 1 Battle Mechanics
 
@@ -121,8 +156,10 @@ pokemon-gen1-battle-engine/
 Each Pokemon fetches their learnset and filters for:
 - Level-up moves only (no TMs)
 - Learned by level 100 or below
-- Top 3 damaging moves sorted by power
+- Top 3 damaging moves sorted by power (highest first)
 - 1 status move filler if needed
+
+In battle, Pokemon always use their **first (strongest) damaging move**.
 
 ### Type Compatibility
 Modern types not in Gen 1 are mapped:
@@ -133,14 +170,32 @@ Modern types not in Gen 1 are mapped:
 ### Battle Safety
 100-turn limit prevents infinite loops from type immunity (e.g., Ground vs Flying).
 
+## Roadmap
+
+### v1.0 (Current) ✅
+- [x] Complete Gen 1 Pokedex (151 Pokemon)
+- [x] Authentic damage formula
+- [x] Type effectiveness system
+- [x] Round-robin tournament
+- [x] Rankings and statistics
+
+### v2.0 (In Progress) 🚧
+- [ ] Move selection AI (choose best type matchup)
+- [ ] Status effects (poison, burn, paralysis, sleep)
+- [ ] Stat modifiers (attack up/down, speed changes)
+- [ ] Critical hit system
+- [ ] Accuracy and evasion
+
+### v3.0 (Future) 📋
+- [ ] 6v6 team battles
+- [ ] Switching Pokemon mid-battle
+- [ ] Held items
+- [ ] Weather effects
+- [ ] Web UI for visualization
+
 ## Contributing
 
-Contributions welcome! Areas for expansion:
-- AI move selection strategy
-- Status effects (poison, burn, paralysis)
-- Critical hit mechanics
-- Accuracy/evasion
-- Team battles (6v6)
+Contributions welcome! Check the roadmap above or submit issues for bugs and feature requests.
 
 ## License
 
