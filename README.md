@@ -45,26 +45,24 @@ Damage = (((2 × Level / 5 + 2) × Power × (Attack / Defense)) / 50) + 2
 git clone https://github.com/yourusername/pokemon-gen1-battle-engine.git
 cd pokemon-gen1-battle-engine
 
-# Install dependencies
-npm install
+# Setup (fetch data + calculate stats + create directories)
+npm run setup
+```
 
+Or step by step:
+```bash
 # Fetch Pokemon data from PokeAPI
-cd api
-node fetch-data.js
+npm run fetch
 
 # Calculate Level 100 stats
-cd ..
-node lvl_100.js
-
-# Create results directory
-mkdir -p results
+npm run calc-stats
 ```
 
 ## Usage
 
 ### Run Full Tournament
 ```bash
-node tournament_loop.js
+npm run tournament
 ```
 
 Simulates all 11,325 battles between 151 Pokemon and generates rankings.
@@ -77,18 +75,13 @@ Simulates all 11,325 battles between 151 Pokemon and generates rankings.
 
 ### Run Single Battle
 ```bash
-node battle.js
+npm run battle
 ```
 
 Edit `battle.js` to test specific matchups:
 ```javascript
 const pokemonA = pokemonDb.find(p => p.name === 'mewtwo');
 const pokemonB = pokemonDb.find(p => p.name === 'dragonite');
-```
-
-### Calculate Damage
-```bash
-node damage_calculator.js
 ```
 
 ## Sample Results

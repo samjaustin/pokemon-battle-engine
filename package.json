@@ -1,0 +1,33 @@
+{
+  "name": "pokemon-gen1-battle-engine",
+  "version": "1.0.0",
+  "description": "Generation 1 Pokemon battle simulator with authentic damage formula and tournament rankings",
+  "main": "tournament_loop.js",
+  "scripts": {
+    "fetch": "cd api && node fetch-data.js",
+    "calc-stats": "node lvl_100.js",
+    "tournament": "node tournament_loop.js",
+    "battle": "node battle.js",
+    "setup": "cd api && node fetch-data.js && cd .. && node lvl_100.js && mkdir -p results"
+  },
+  "keywords": [
+    "pokemon",
+    "gen1",
+    "battle-simulator",
+    "game-boy",
+    "pokeapi",
+    "retro-gaming",
+    "pokemon-red",
+    "pokemon-blue"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/pokemon-gen1-battle-engine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/username/pokemon-gen1-battle-engine/issues"
+  },
+  "homepage": "https://github.com/username/pokemon-gen1-battle-engine#readme"
+}
