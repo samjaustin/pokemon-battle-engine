@@ -172,30 +172,12 @@ Modern types not in Gen 1 are mapped:
 
 ## Roadmap
 
-### v1.0 (Current) ✅
-- [x] Complete Gen 1 Pokedex (151 Pokemon)
-- [x] Authentic damage formula
-- [x] Type effectiveness system
-- [x] Round-robin tournament
-- [x] Rankings and statistics
-
-### v2.0 (In Progress) 🚧
-- [ ] Move selection AI (choose best type matchup)
-- [ ] Status effects (poison, burn, paralysis, sleep)
-- [ ] Stat modifiers (attack up/down, speed changes)
-- [ ] Critical hit system
-- [ ] Accuracy and evasion
-
-### v3.0 (Future) 📋
-- [ ] 6v6 team battles
-- [ ] Switching Pokemon mid-battle
-- [ ] Held items
-- [ ] Weather effects
-- [ ] Web UI for visualization
+- **v1.0** ✅ Complete Gen 1 tournament engine with damage calculation and rankings
+- **v2.0** 🔜 More features coming soon
 
 ## Contributing
 
-Contributions welcome! Check the roadmap above or submit issues for bugs and feature requests.
+Contributions welcome! Submit issues for bugs and feature requests.
 
 ## License
 
