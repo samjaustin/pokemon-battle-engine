@@ -7,15 +7,15 @@
   },
   {
     "name": "alakazam",
-    "wins": 141,
-    "losses": 9,
-    "winRate": "94.0"
+    "wins": 142,
+    "losses": 8,
+    "winRate": "94.7"
   },
   {
     "name": "mew",
-    "wins": 141,
-    "losses": 9,
-    "winRate": "94.0"
+    "wins": 142,
+    "losses": 8,
+    "winRate": "94.7"
   },
   {
     "name": "moltres",
@@ -36,16 +36,16 @@
     "winRate": "92.0"
   },
   {
-    "name": "slowbro",
+    "name": "gengar",
     "wins": 136,
     "losses": 14,
     "winRate": "90.7"
   },
   {
-    "name": "gengar",
-    "wins": 135,
-    "losses": 15,
-    "winRate": "90.0"
+    "name": "slowbro",
+    "wins": 134,
+    "losses": 16,
+    "winRate": "89.3"
   },
   {
     "name": "zapdos",
@@ -66,13 +66,13 @@
     "winRate": "85.3"
   },
   {
-    "name": "weezing",
+    "name": "lapras",
     "wins": 127,
     "losses": 23,
     "winRate": "84.7"
   },
   {
-    "name": "lapras",
+    "name": "weezing",
     "wins": 126,
     "losses": 24,
     "winRate": "84.0"
@@ -90,7 +90,13 @@
     "winRate": "83.3"
   },
   {
-    "name": "charizard",
+    "name": "snorlax",
+    "wins": 124,
+    "losses": 26,
+    "winRate": "82.7"
+  },
+  {
+    "name": "haunter",
     "wins": 123,
     "losses": 27,
     "winRate": "82.0"
@@ -102,19 +108,13 @@
     "winRate": "82.0"
   },
   {
-    "name": "snorlax",
-    "wins": 123,
-    "losses": 27,
-    "winRate": "82.0"
-  },
-  {
     "name": "venusaur",
     "wins": 122,
     "losses": 28,
     "winRate": "81.3"
   },
   {
-    "name": "haunter",
+    "name": "charizard",
     "wins": 122,
     "losses": 28,
     "winRate": "81.3"
@@ -139,9 +139,9 @@
   },
   {
     "name": "golem",
-    "wins": 119,
-    "losses": 31,
-    "winRate": "79.3"
+    "wins": 120,
+    "losses": 30,
+    "winRate": "80.0"
   },
   {
     "name": "blastoise",
@@ -150,10 +150,10 @@
     "winRate": "78.0"
   },
   {
-    "name": "kadabra",
-    "wins": 116,
-    "losses": 34,
-    "winRate": "77.3"
+    "name": "electabuzz",
+    "wins": 117,
+    "losses": 33,
+    "winRate": "78.0"
   },
   {
     "name": "electrode",
@@ -162,19 +162,19 @@
     "winRate": "77.3"
   },
   {
-    "name": "electabuzz",
-    "wins": 116,
-    "losses": 34,
-    "winRate": "77.3"
-  },
-  {
-    "name": "dodrio",
-    "wins": 114,
-    "losses": 36,
-    "winRate": "76.0"
+    "name": "kadabra",
+    "wins": 115,
+    "losses": 35,
+    "winRate": "76.7"
   },
   {
     "name": "arcanine",
+    "wins": 113,
+    "losses": 37,
+    "winRate": "75.3"
+  },
+  {
+    "name": "dodrio",
     "wins": 113,
     "losses": 37,
     "winRate": "75.3"
@@ -204,12 +204,6 @@
     "winRate": "72.0"
   },
   {
-    "name": "kangaskhan",
-    "wins": 108,
-    "losses": 42,
-    "winRate": "72.0"
-  },
-  {
     "name": "tauros",
     "wins": 108,
     "losses": 42,
@@ -226,6 +220,12 @@
     "wins": 108,
     "losses": 42,
     "winRate": "72.0"
+  },
+  {
+    "name": "kangaskhan",
+    "wins": 107,
+    "losses": 43,
+    "winRate": "71.3"
   },
   {
     "name": "aerodactyl",
@@ -265,9 +265,9 @@
   },
   {
     "name": "cloyster",
-    "wins": 102,
-    "losses": 48,
-    "winRate": "68.0"
+    "wins": 100,
+    "losses": 50,
+    "winRate": "66.7"
   },
   {
     "name": "primeape",
@@ -288,13 +288,13 @@
     "winRate": "65.3"
   },
   {
-    "name": "gloom",
-    "wins": 97,
-    "losses": 53,
-    "winRate": "64.7"
+    "name": "venomoth",
+    "wins": 98,
+    "losses": 52,
+    "winRate": "65.3"
   },
   {
-    "name": "venomoth",
+    "name": "gloom",
     "wins": 97,
     "losses": 53,
     "winRate": "64.7"
@@ -306,19 +306,13 @@
     "winRate": "64.0"
   },
   {
-    "name": "ivysaur",
-    "wins": 95,
-    "losses": 55,
-    "winRate": "63.3"
-  },
-  {
     "name": "seaking",
     "wins": 95,
     "losses": 55,
     "winRate": "63.3"
   },
   {
-    "name": "dugtrio",
+    "name": "ivysaur",
     "wins": 94,
     "losses": 56,
     "winRate": "62.7"
@@ -336,37 +330,55 @@
     "winRate": "62.7"
   },
   {
+    "name": "dugtrio",
+    "wins": 93,
+    "losses": 57,
+    "winRate": "62.0"
+  },
+  {
     "name": "koffing",
     "wins": 92,
     "losses": 58,
     "winRate": "61.3"
   },
   {
-    "name": "poliwrath",
-    "wins": 91,
-    "losses": 59,
-    "winRate": "60.7"
-  },
-  {
-    "name": "exeggutor",
-    "wins": 91,
-    "losses": 59,
-    "winRate": "60.7"
-  },
-  {
     "name": "dragonair",
-    "wins": 91,
-    "losses": 59,
-    "winRate": "60.7"
+    "wins": 92,
+    "losses": 58,
+    "winRate": "61.3"
+  },
+  {
+    "name": "poliwrath",
+    "wins": 90,
+    "losses": 60,
+    "winRate": "60.0"
   },
   {
     "name": "magneton",
-    "wins": 89,
-    "losses": 61,
-    "winRate": "59.3"
+    "wins": 90,
+    "losses": 60,
+    "winRate": "60.0"
+  },
+  {
+    "name": "exeggutor",
+    "wins": 90,
+    "losses": 60,
+    "winRate": "60.0"
   },
   {
     "name": "nidoqueen",
+    "wins": 88,
+    "losses": 62,
+    "winRate": "58.7"
+  },
+  {
+    "name": "victreebel",
+    "wins": 88,
+    "losses": 62,
+    "winRate": "58.7"
+  },
+  {
+    "name": "mr-mime",
     "wins": 88,
     "losses": 62,
     "winRate": "58.7"
@@ -376,18 +388,6 @@
     "wins": 88,
     "losses": 62,
     "winRate": "58.7"
-  },
-  {
-    "name": "victreebel",
-    "wins": 87,
-    "losses": 63,
-    "winRate": "58.0"
-  },
-  {
-    "name": "mr-mime",
-    "wins": 87,
-    "losses": 63,
-    "winRate": "58.0"
   },
   {
     "name": "kabuto",
@@ -420,13 +420,19 @@
     "winRate": "55.3"
   },
   {
+    "name": "parasect",
+    "wins": 78,
+    "losses": 72,
+    "winRate": "52.0"
+  },
+  {
     "name": "staryu",
     "wins": 78,
     "losses": 72,
     "winRate": "52.0"
   },
   {
-    "name": "parasect",
+    "name": "poliwhirl",
     "wins": 77,
     "losses": 73,
     "winRate": "51.3"
@@ -438,22 +444,16 @@
     "winRate": "50.7"
   },
   {
-    "name": "poliwhirl",
+    "name": "marowak",
     "wins": 76,
     "losses": 74,
     "winRate": "50.7"
   },
   {
     "name": "machoke",
-    "wins": 76,
-    "losses": 74,
-    "winRate": "50.7"
-  },
-  {
-    "name": "marowak",
-    "wins": 76,
-    "losses": 74,
-    "winRate": "50.7"
+    "wins": 75,
+    "losses": 75,
+    "winRate": "50.0"
   },
   {
     "name": "krabby",
@@ -475,9 +475,9 @@
   },
   {
     "name": "oddish",
-    "wins": 73,
-    "losses": 77,
-    "winRate": "48.7"
+    "wins": 74,
+    "losses": 76,
+    "winRate": "49.3"
   },
   {
     "name": "dewgong",
@@ -516,16 +516,16 @@
     "winRate": "46.0"
   },
   {
-    "name": "golbat",
-    "wins": 67,
-    "losses": 83,
-    "winRate": "44.7"
-  },
-  {
     "name": "ninetales",
     "wins": 66,
     "losses": 84,
     "winRate": "44.0"
+  },
+  {
+    "name": "golbat",
+    "wins": 65,
+    "losses": 85,
+    "winRate": "43.3"
   },
   {
     "name": "butterfree",
@@ -540,19 +540,19 @@
     "winRate": "42.7"
   },
   {
-    "name": "tangela",
+    "name": "ponyta",
     "wins": 64,
     "losses": 86,
     "winRate": "42.7"
   },
   {
-    "name": "ponyta",
-    "wins": 63,
-    "losses": 87,
-    "winRate": "42.0"
+    "name": "onix",
+    "wins": 64,
+    "losses": 86,
+    "winRate": "42.7"
   },
   {
-    "name": "onix",
+    "name": "farfetchd",
     "wins": 63,
     "losses": 87,
     "winRate": "42.0"
@@ -564,37 +564,31 @@
     "winRate": "42.0"
   },
   {
+    "name": "tangela",
+    "wins": 63,
+    "losses": 87,
+    "winRate": "42.0"
+  },
+  {
     "name": "bulbasaur",
     "wins": 62,
     "losses": 88,
     "winRate": "41.3"
   },
   {
-    "name": "farfetchd",
-    "wins": 62,
-    "losses": 88,
-    "winRate": "41.3"
+    "name": "weepinbell",
+    "wins": 61,
+    "losses": 89,
+    "winRate": "40.7"
   },
   {
     "name": "lickitung",
-    "wins": 62,
-    "losses": 88,
-    "winRate": "41.3"
+    "wins": 61,
+    "losses": 89,
+    "winRate": "40.7"
   },
   {
     "name": "arbok",
-    "wins": 60,
-    "losses": 90,
-    "winRate": "40.0"
-  },
-  {
-    "name": "pikachu",
-    "wins": 60,
-    "losses": 90,
-    "winRate": "40.0"
-  },
-  {
-    "name": "weepinbell",
     "wins": 60,
     "losses": 90,
     "winRate": "40.0"
@@ -610,6 +604,12 @@
     "wins": 59,
     "losses": 91,
     "winRate": "39.3"
+  },
+  {
+    "name": "pikachu",
+    "wins": 58,
+    "losses": 92,
+    "winRate": "38.7"
   },
   {
     "name": "hitmonchan",
@@ -648,16 +648,22 @@
     "winRate": "33.3"
   },
   {
-    "name": "poliwag",
+    "name": "starmie",
     "wins": 49,
     "losses": 101,
     "winRate": "32.7"
   },
   {
-    "name": "starmie",
-    "wins": 49,
-    "losses": 101,
-    "winRate": "32.7"
+    "name": "poliwag",
+    "wins": 48,
+    "losses": 102,
+    "winRate": "32.0"
+  },
+  {
+    "name": "cubone",
+    "wins": 48,
+    "losses": 102,
+    "winRate": "32.0"
   },
   {
     "name": "dratini",
@@ -666,19 +672,7 @@
     "winRate": "32.0"
   },
   {
-    "name": "cubone",
-    "wins": 47,
-    "losses": 103,
-    "winRate": "31.3"
-  },
-  {
-    "name": "machop",
-    "wins": 42,
-    "losses": 108,
-    "winRate": "28.0"
-  },
-  {
-    "name": "eevee",
+    "name": "growlithe",
     "wins": 42,
     "losses": 108,
     "winRate": "28.0"
@@ -690,13 +684,19 @@
     "winRate": "27.3"
   },
   {
-    "name": "growlithe",
+    "name": "machop",
     "wins": 41,
     "losses": 109,
     "winRate": "27.3"
   },
   {
     "name": "shellder",
+    "wins": 41,
+    "losses": 109,
+    "winRate": "27.3"
+  },
+  {
+    "name": "eevee",
     "wins": 41,
     "losses": 109,
     "winRate": "27.3"
@@ -726,22 +726,16 @@
     "winRate": "26.0"
   },
   {
-    "name": "diglett",
-    "wins": 38,
-    "losses": 112,
-    "winRate": "25.3"
-  },
-  {
     "name": "vulpix",
     "wins": 37,
     "losses": 113,
     "winRate": "24.7"
   },
   {
-    "name": "spearow",
-    "wins": 36,
-    "losses": 114,
-    "winRate": "24.0"
+    "name": "diglett",
+    "wins": 37,
+    "losses": 113,
+    "winRate": "24.7"
   },
   {
     "name": "nidorino",
@@ -754,6 +748,12 @@
     "wins": 36,
     "losses": 114,
     "winRate": "24.0"
+  },
+  {
+    "name": "spearow",
+    "wins": 35,
+    "losses": 115,
+    "winRate": "23.3"
   },
   {
     "name": "paras",
@@ -786,16 +786,16 @@
     "winRate": "19.3"
   },
   {
+    "name": "meowth",
+    "wins": 26,
+    "losses": 124,
+    "winRate": "17.3"
+  },
+  {
     "name": "pidgey",
     "wins": 25,
     "losses": 125,
     "winRate": "16.7"
-  },
-  {
-    "name": "meowth",
-    "wins": 24,
-    "losses": 126,
-    "winRate": "16.0"
   },
   {
     "name": "grimer",
@@ -816,13 +816,13 @@
     "winRate": "11.3"
   },
   {
-    "name": "ekans",
-    "wins": 16,
-    "losses": 134,
-    "winRate": "10.7"
+    "name": "zubat",
+    "wins": 17,
+    "losses": 133,
+    "winRate": "11.3"
   },
   {
-    "name": "zubat",
+    "name": "ekans",
     "wins": 16,
     "losses": 134,
     "winRate": "10.7"
