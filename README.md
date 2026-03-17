@@ -40,16 +40,7 @@ Repeat until faint           Winner determined by stats
 - No move switching or AI strategy - pure power comparison
 - Best for: Rankings, power analysis, type matchup research
 
-### What's Next (v2.0+)
-
-- **Move Selection AI**: Pokemon choose moves based on type advantages
-- **Status Effects**: Poison, burn, paralysis, sleep mechanics
-- **Switching**: Mid-battle Pokemon switching
-- **Critical Hits**: 1/16 chance with 2x damage
-- **Accuracy/Evasion**: Moves can miss
-- **Stat Modifiers**: Swords Dance, Growl, etc.
-
-> ⚡ **This is v1.0** - focused on raw power rankings. Smart battle AI coming in future updates!
+> **v1.0** uses raw power ranking. Smart battle AI and status effects are being considered for future versions.
 
 ## Gen 1 Battle Mechanics
 
